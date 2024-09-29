@@ -1,1044 +1,1047 @@
 /* custom font */
 @font-face {
-    font-family: "Copperplate";
-    src: url(../fonts/Copperplate Gothic Bold Regular.ttf) format("truetype");
+  font-family: "Copperplate";
+  src: url(../fonts/Copperplate Gothic Bold Regular.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: "CopperplateBold";
-    src: url(../fonts/Copperplate_Bold.ttf) format("truetype");
+  font-family: "CopperplateBold";
+  src: url(../fonts/Copperplate_Bold.ttf) format("truetype");
 }
 
 /* general CSS */
-body { 
-
-	font-family: "Courier New", Courier, monospace;
-	text-decoration: none !important;
-	background-color:#E6E6E5;
+body {
+  font-family: "Courier New", Courier, monospace;
+  text-decoration: none !important;
+  background-color: #e6e6e5;
 }
 
-h1, h2, h3, h4, h5 {
-	font-family: "CopperplateBold";
-    color: #899639;
-	text-align: center;
-	margin:0px;
-	padding-top:20px;
-	padding-bottom:10px;
-	
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "CopperplateBold";
+  color: #899639;
+  text-align: center;
+  margin: 0px;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 
 h4 {
-	text-align:left;
-	padding-left:10px;
+  text-align: left;
+  padding-left: 10px;
 }
 
 a {
-	text-decoration: none !important;
-	color: inherit;
-	outline: none;
-	transition: 0.5s ease;
-	-o-transition: 0.5s ease;
-	-webkit-transition: 0.5s ease;
+  text-decoration: none !important;
+  color: inherit;
+  outline: none;
+  transition: 0.5s ease;
+  -o-transition: 0.5s ease;
+  -webkit-transition: 0.5s ease;
 }
 
-a:hover { 
-	text-decoration: none !important;
+a:hover {
+  text-decoration: none !important;
 }
 
 /* specific CSS */
-.cc-circle
-{
-    border-radius: 50%;
-    width: 140px;
-    height: 140px;
-    background-color: #b39a7f;
-	color: #FFF;
-    padding-top: 27px;
-	margin: 40px auto;
+.cc-circle {
+  border-radius: 50%;
+  width: 140px;
+  height: 140px;
+  background-color: #b39a7f;
+  color: #fff;
+  padding-top: 27px;
+  margin: 40px auto;
 }
 
 .cc-circle b {
-	font-size:30px;
+  font-size: 30px;
 }
 
 .dropdown-menu > .active > a {
-	background-color: #B39A7F;
+  background-color: #b39a7f;
 }
 
 .cc-section {
-	min-height:100vh;
-	padding-top:60px;
-	padding-bottom:60px;
+  min-height: 100vh;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .cc-header-dot-center {
-	color:#899639;
-	font-size: 24px;
+  color: #899639;
+  font-size: 24px;
 }
 
 .cc-header-dot-center h3 {
-	padding:0px;
-	margin-bottom: 20px;
+  padding: 0px;
+  margin-bottom: 20px;
 }
 
 .cc-header-dot-center h2 {
-	padding:0px;
-	margin-bottom: 20px;
+  padding: 0px;
+  margin-bottom: 20px;
 }
 
 .cc-select {
-	background-color: #fff;
-    margin: 20px 0px 0px 0px;
-    box-shadow: 0 0 10px #000;
+  background-color: #fff;
+  margin: 20px 0px 0px 0px;
+  box-shadow: 0 0 10px #000;
 }
 
 .cc-select p {
-    padding: 0px 30px 10px 30px;
-	margin-bottom:0px;
-    text-align: center;
+  padding: 0px 30px 10px 30px;
+  margin-bottom: 0px;
+  text-align: center;
 }
 
 .cc-google-map {
-	width:100%;
-	height:500px;
-    box-shadow: 0 0 10px #888;
-	border:0px;
+  width: 100%;
+  height: 500px;
+  box-shadow: 0 0 10px #888;
+  border: 0px;
 }
 
 .cc_img {
-	width:100%;
+  width: 100%;
 }
 
 .cc_img_25 {
-	width:25%;
-	float:left;
-	padding: 2px;
+  width: 25%;
+  float: left;
+  padding: 2px;
 }
 
 .cc_img_33 {
-	width:33%;
-	float:left;
-	padding: 2px;
+  width: 33%;
+  float: left;
+  padding: 2px;
 }
 
 .cc_img_50 {
-	width:50%;
-	float:left;
-	padding: 2px;
+  width: 50%;
+  float: left;
+  padding: 2px;
 }
 
 .cc_img_66 {
-	width:66%;
-	float:left;
-	padding: 2px;
+  width: 66%;
+  float: left;
+  padding: 2px;
 }
 
-.cc-header-padding-30{
-	padding-bottom: 30px;
+.cc-header-padding-30 {
+  padding-bottom: 30px;
 }
 
-.cc-header-padding-60{
-	padding-bottom: 60px;
+.cc-header-padding-60 {
+  padding-bottom: 60px;
 }
 
 .cc-eye-span {
-	margin-top: 150px;
-    display: block;
+  margin-top: 150px;
+  display: block;
 }
 
 .cc-eye-pad-bottom {
-	padding-bottom:12px;
+  padding-bottom: 12px;
 }
 
-.cc-menu-padding{
-	padding-top:15px;
+.cc-menu-padding {
+  padding-top: 15px;
 }
 
 .cc-button {
-	border: solid 1px #B39A7F;
-    color: #B39A7F;
-    background-color: #FFF;
-    border-radius: 4px;
-    margin-left: 50%;
-    position: relative;
-    left: -50px;
-    width: 100px;
-    margin-bottom: 20px;
+  border: solid 1px #b39a7f;
+  color: #b39a7f;
+  background-color: #fff;
+  border-radius: 4px;
+  margin-left: 50%;
+  position: relative;
+  left: -50px;
+  width: 100px;
+  margin-bottom: 20px;
 }
 
 .cc-button:hover {
-	border: solid 1px #899639;
-    color: #FFF;
-    background-color: #899639;
+  border: solid 1px #899639;
+  color: #fff;
+  background-color: #899639;
 }
 
 .cc-logo-partenaire {
-	background-color:#fff;
-	height: 250px;
+  background-color: #fff;
+  height: 250px;
 }
 
 .cc-logo {
-	width:100%;	
-	background-size: contain !important;
-    height: 0;
-    padding-top: 50%;
-	transition: 0.5s ease;
-	-o-transition: 0.5s ease;
-	-webkit-transition: 0.5s ease;
-	background-repeat: no-repeat;
+  width: 100%;
+  background-size: contain !important;
+  height: 0;
+  padding-top: 67%;
+  transition: 0.5s ease;
+  -o-transition: 0.5s ease;
+  -webkit-transition: 0.5s ease;
+  background-repeat: no-repeat;
 }
 
 .cc-logo-2 {
-	width:100%;	
-	background-size: contain !important;
-    height: 0;
-    padding-top: 120%;
-	transition: 0.5s ease;
-	-o-transition: 0.5s ease;
-	-webkit-transition: 0.5s ease;
-	background-repeat: no-repeat;
+  width: 100%;
+  background-size: contain !important;
+  height: 0;
+  padding-top: 120%;
+  transition: 0.5s ease;
+  -o-transition: 0.5s ease;
+  -webkit-transition: 0.5s ease;
+  background-repeat: no-repeat;
 }
 
 .cc-logo-3 {
-	width:100%;	
-	background-size: contain !important;
-    height: 0;
-    padding-top: 60%;
-	transition: 0.5s ease;
-	-o-transition: 0.5s ease;
-	-webkit-transition: 0.5s ease;
-	background-repeat: no-repeat;
+  width: 100%;
+  background-size: contain !important;
+  height: 0;
+  padding-top: 60%;
+  transition: 0.5s ease;
+  -o-transition: 0.5s ease;
+  -webkit-transition: 0.5s ease;
+  background-repeat: no-repeat;
 }
 
 .cc-logo-4 {
-	width:100%;	
-	background-size: contain !important;
-    height: 0;
-    padding-top: 100%;
-	transition: 0.5s ease;
-	-o-transition: 0.5s ease;
-	-webkit-transition: 0.5s ease;
-	background-repeat: no-repeat;
+  width: 100%;
+  background-size: contain !important;
+  height: 0;
+  padding-top: 100%;
+  transition: 0.5s ease;
+  -o-transition: 0.5s ease;
+  -webkit-transition: 0.5s ease;
+  background-repeat: no-repeat;
 }
 
 .cc-logo-5 {
-	width:100%;	
-	background-size: contain !important;
-    height: 0;
-    padding-top: 45%;
-	transition: 0.5s ease;
-	-o-transition: 0.5s ease;
-	-webkit-transition: 0.5s ease;
-	background-repeat: no-repeat;
+  width: 100%;
+  background-size: contain !important;
+  height: 0;
+  padding-top: 45%;
+  transition: 0.5s ease;
+  -o-transition: 0.5s ease;
+  -webkit-transition: 0.5s ease;
+  background-repeat: no-repeat;
 }
 
-
 .cc-logo-6 {
-	width:100%;	
-	background-size: contain !important;
-    height: 0;
-    padding-top: 49.8%;
-	transition: 0.5s ease;
-	-o-transition: 0.5s ease;
-	-webkit-transition: 0.5s ease;
-	background-repeat: no-repeat;
+  width: 100%;
+  background-size: contain !important;
+  height: 0;
+  padding-top: 49.8%;
+  transition: 0.5s ease;
+  -o-transition: 0.5s ease;
+  -webkit-transition: 0.5s ease;
+  background-repeat: no-repeat;
 }
 
 .cc-logo-sc .cc-logo {
-	background-image: url("imgs/cc-accueil/studio.jpg");
+  background-image: url("imgs/cc-accueil/studio.jpg");
 }
 
 .cc-logo-co .cc-logo {
-	background-image: url("imgs/cc-accueil/coiffure.jpg");
+  background-image: url("imgs/cc-accueil/coiffure.jpg");
 }
 
-.cc-logo-es .cc-logo{
-	background-image: url("imgs/cc-accueil/esthetique.jpg");
+.cc-logo-es .cc-logo {
+  background-image: url("imgs/cc-accueil/esthetique.jpg");
 }
 
 .cc-logo-ex .cc-logo {
-	background-image: url("img/extension.jpg");
+  background-image: url("img/extension.jpg");
 }
 
 .cc-logo-background-scroll {
-	background-position: center -250px !important; 
+  background-position: center -250px !important;
 }
 
 .cc-white-transparancy {
-	opacity: 0.5;
-
+  opacity: 0.5;
 }
 
 .cc-partenaire {
-	width: 200px;
+  width: 200px;
 }
 
 .cc-partenaire-link {
-	font-size:30px;
+  font-size: 30px;
 }
 
 .cc-helper {
-	display: inline-block;
-    height: 100%;
-    vertical-align: middle;
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
 }
 
 .cc-div-height {
-	height: 250px;
+  height: 250px;
 }
 
 .cc-rezo {
-	padding:7px 0px 10px 0px;
-	list-style-type: none;
+  padding: 7px 0px 10px 0px;
+  list-style-type: none;
 }
 
 .cc-rezo > a {
-    position: relative;
-    margin: 0 4px 0 5px;
-    border-radius: 500px;
-    background-color: #fff;
-    display: inline-block;
-    width: 43px;
-    height: 43px;
-    color: #B39A7F;
-    font: 24px/43px FontAwesome;
-	text-align:center;
+  position: relative;
+  margin: 0 4px 0 5px;
+  border-radius: 500px;
+  background-color: #fff;
+  display: inline-block;
+  width: 43px;
+  height: 43px;
+  color: #b39a7f;
+  font: 24px/43px FontAwesome;
+  text-align: center;
 }
 
-.cc-rezo > li > i{
-	position: relative;
-    padding: 5px 4px 0 5px;
-    display: inline-block;
-    width: 30px;
-    height: 30px;
-    color: #B39A7F;
-    font: 20px FontAwesome;
-    text-align: center;
+.cc-rezo > li > i {
+  position: relative;
+  padding: 5px 4px 0 5px;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  color: #b39a7f;
+  font: 20px FontAwesome;
+  text-align: center;
 }
- 
- .cc-rezo > li > b,   .cc-rezo > li > i{
-      width: 80px;
-    display: inline-block;
-    text-align: right;
-    padding-right: 5px;
+
+.cc-rezo > li > b,
+.cc-rezo > li > i {
+  width: 80px;
+  display: inline-block;
+  text-align: right;
+  padding-right: 5px;
 }
- 
+
 .cc-bon-plan {
-	padding:7px 0px 10px 0px;
-	list-style-type: none;
+  padding: 7px 0px 10px 0px;
+  list-style-type: none;
 }
- 
+
 .cc-bon-plan > a {
-    position: relative;
-    margin: 0 4px 0 5px;
-    border-radius: 500px;
-    background-color: #fff;
-    display: inline-block;
-    width: 43px;
-    height: 43px;
-    color: #B39A7F;
-    font: 24px/43px FontAwesome;
-	text-align:center;
+  position: relative;
+  margin: 0 4px 0 5px;
+  border-radius: 500px;
+  background-color: #fff;
+  display: inline-block;
+  width: 43px;
+  height: 43px;
+  color: #b39a7f;
+  font: 24px/43px FontAwesome;
+  text-align: center;
 }
 
 .cc-bon-plan > li > i {
-	position: relative;
-    padding: 5px 4px 0 5px;
-    display: inline-block;
-    width: 30px;
-    height: 30px;
-    color: #B39A7F;
-    font: 20px FontAwesome;
-    text-align: center;
- }
-    .cc-bon-plan > li > i{
-    width: 160px;
-    display: inline-block;
-    text-align: right;
-    padding-right: 5px;
+  position: relative;
+  padding: 5px 4px 0 5px;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  color: #b39a7f;
+  font: 20px FontAwesome;
+  text-align: center;
 }
- 
-.cc-form-row {
-	padding:50px 0 50px 0;
+.cc-bon-plan > li > i {
+  width: 160px;
+  display: inline-block;
+  text-align: right;
+  padding-right: 5px;
 }
 
-.cc-form input, .cc-form button{
-    height: 40px;
-    padding-left: 10px;
-	margin:10px 0 10px 0;
+.cc-form-row {
+  padding: 50px 0 50px 0;
+}
+
+.cc-form input,
+.cc-form button {
+  height: 40px;
+  padding-left: 10px;
+  margin: 10px 0 10px 0;
 }
 
 .cc-form textarea {
-
-    height: 100px;
-	margin:10px 0 10px 0;
+  height: 100px;
+  margin: 10px 0 10px 0;
 }
 
 .cc-rezo a:hover {
-	opacity: 0.5;
-	text-decoration: none;
+  opacity: 0.5;
+  text-decoration: none;
 }
 
 #cc-rezoContainer {
-    text-align: center;
+  text-align: center;
 }
 
-.cc-header-icons{
-	background-color:#805100;
-	border-radius:4px;
-	padding:3px 10px;
-	color:#C7b299;
+.cc-header-icons {
+  background-color: #805100;
+  border-radius: 4px;
+  padding: 3px 10px;
+  color: #c7b299;
 }
 
-.cc-centerNav li a{
-	padding-left:10px;
-	padding-right:10px;
-	   color: #555;
+.cc-centerNav li a {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #555;
 }
 
-
-.cc-centerNav li a:hover{
-	color: #C7b299;
+.cc-centerNav li a:hover {
+  color: #c7b299;
 }
 
 .cc-salon-header {
-	background: url("img/salon.jpg") no-repeat center; 
+  background: url("img/salon.jpg") no-repeat center;
 }
 
-.cc-center{
-	text-align:center;
+.cc-center {
+  text-align: center;
 }
 
 .cc-bg-studio {
-	background: url("img/studio_capillaire.jpg") no-repeat center; 
+  background: url("img/studio_capillaire.jpg") no-repeat center;
 }
 
 .cc-bg-volumateur {
-	background: url("imgs/cc-studio/background-volumateur.jpg") no-repeat center;		
+  background: url("imgs/cc-studio/background-volumateur.jpg") no-repeat center;
 }
 
 .cc-bg-esthetique {
-	background: url("imgs/cc-esthetique/esthetique-background.jpg") no-repeat center;
+  background: url("imgs/cc-esthetique/esthetique-background.jpg") no-repeat
+    center;
 }
 
 .cc-bg-esthetique-1 {
-	background: url("imgs/cc-esthetique/bg_esthetique_1.jpg") no-repeat center;
+  background: url("imgs/cc-esthetique/bg_esthetique_1.jpg") no-repeat center;
 }
 
 .cc-bg-studio-1 {
-	background: url("imgs/cc-studio/bg_studio_1.jpg") no-repeat center;
+  background: url("imgs/cc-studio/bg_studio_1.jpg") no-repeat center;
 }
 
 .cc-bg-studio-2 {
-	background: url("imgs/cc-studio/bg_studio_2.jpg") no-repeat center;
+  background: url("imgs/cc-studio/bg_studio_2.jpg") no-repeat center;
 }
 
 .cc-bg-coiffure-1 {
-	background: url("imgs/cc-coiffure/bg_coiffure_1.jpg") no-repeat center;
+  background: url("imgs/cc-coiffure/bg_coiffure_1.jpg") no-repeat center;
 }
 
 .cc-bg-coiffure-2 {
-	background: url("img/bg_coiffure_2.jpg") no-repeat center;
+  background: url("img/bg_coiffure_2.jpg") no-repeat center;
 }
 
 .cc-img-front {
-	width:100%;
+  width: 100%;
+}
+
+.cc-img-front-portrait {
+  width: 100%;
 }
 
 .cc-volumateur div {
-	padding-bottom:40px;
+  padding-bottom: 40px;
 }
 
 .cc-logo-volumateur {
-	background: url("img/volumateur.jpg"); 
-	width: 100%;
-    background-size: contain;
-    height: 0;
-    padding-top: 50%;
-	box-shadow: 0 0 10px #888;
+  background: url("img/volumateur.jpg");
+  width: 100%;
+  background-size: contain;
+  height: 0;
+  padding-top: 50%;
+  box-shadow: 0 0 10px #888;
+}
+
+.cc-bon-plan-bg {
+  background-color: #899639;
+  color: white;
+  border: 1px solid white;
+  padding: 30px;
 }
 
 .cc-studio-background {
-	padding-top:100px;
-	padding-bottom:100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .cc-studio-background2 {
-    background-color: rgba(181, 155, 128, 0.72);
-	padding-top:100px;
-	padding-bottom:100px;
-	border-top: 1px solid #B39A7F
+  background-color: rgba(181, 155, 128, 0.72);
+  padding-top: 100px;
+  padding-bottom: 100px;
+  border-top: 1px solid #b39a7f;
 }
 
 .cc-studio-back2 {
-
 }
 
 .cc-prestentation {
-	margin-bottom: 70px;
-
+  margin-bottom: 70px;
 }
 
 .cc-white {
-	color:white;
+  color: white;
 }
 
 .cc-white-background {
-	margin-left:0px;
-	margin-right:0px;
-	text-align:justify;
-	background-color:white;
-	box-shadow: 0 0 10px #888;
-	margin-bottom:20px;
+  margin-left: 0px;
+  margin-right: 0px;
+  text-align: justify;
+  background-color: white;
+  box-shadow: 0 0 10px #888;
+  margin-bottom: 20px;
 }
 
-.cc-padded{
-	padding:10px;
+.cc-padded {
+  padding: 10px;
 }
 
-.cc-mention{
-	text-align:center;
-	background-color:#B39A7F;
-	color:white;	
-	padding-bottom:200px;
+.cc-mention {
+  text-align: center;
+  background-color: #b39a7f;
+  color: white;
+  padding-bottom: 200px;
 }
 
 .cc-ext-description {
-	margin-top:100px;
+  margin-top: 100px;
 }
 
-.cc-col-ext{
-	height:600px;
+.cc-col-ext {
+  height: 600px;
 }
 
-.cc-col-height{
-	height:100%;
+.cc-col-height {
+  height: 100%;
 }
 .cc-height-fixed {
-	height: 1300px;
+  height: 1300px;
 }
 
-.cc-pad-top{
-	padding-top:15px;
-
+.cc-pad-top {
+  padding-top: 15px;
 }
 
 .cc-portrait {
-	border-radius:50%;
-	height:200px;
-	width:200px;
-	padding: 0px;
-	margin:auto;
-
+  height: 300px;
+  width: 300px;
+  padding: 0px;
+  margin: auto;
 }
 
-.cc-pad-portrait{
-	padding:20px;
+.cc-pad-portrait {
+  padding: 20px;
 }
 
 .cc-bg-equip {
-	background:url(imgs/cc-equipe/equipe-background.jpg) center no-repeat; 
+  background: url(imgs/cc-equipe/equipe-background.jpg) center no-repeat;
 }
 
-.cc-perso1{
-	background:url(imgs/cc-equipe/people/perso1.jpg) center no-repeat;
-	background-size: 100%;
+.cc-perso1 {
+  background: url(imgs/cc-equipe/people/perso1.jpg) center no-repeat;
+  background-size: 100%;
 }
 
-.cc-perso2{
-	background:url(imgs/cc-equipe/people/perso2.jpg) center no-repeat;
-	background-size: 100%;
+.cc-perso2 {
+  background: url(imgs/cc-equipe/people/perso2.jpg) center no-repeat;
+  background-size: 100%;
 }
 
-
-.cc-perso3{
-	background:url(imgs/cc-equipe/people/perso3.jpg) center no-repeat;
-	background-size: 100%;
+.cc-perso3 {
+  background: url(imgs/cc-equipe/people/perso3.jpg) center no-repeat;
+  background-size: 100%;
 }
 
-
-.cc-perso4{
-	background:url(imgs/cc-equipe/people/perso4.jpg) center no-repeat;
-	background-size: 100%;
+.cc-perso4 {
+  background: url(imgs/cc-equipe/people/perso4.jpg) center no-repeat;
+  background-size: 100%;
 }
 
-.cc-perso5{
-	background:url(imgs/cc-equipe/people/perso5.jpg) center no-repeat;
-	background-size: 100%;
+.cc-perso5 {
+  background: url(imgs/cc-equipe/people/perso5.jpg) center no-repeat;
+  background-size: 100%;
 }
 
 .cc-equip-padding {
-	padding:0 0 80px 0;
+  padding: 0 0 80px 0;
 }
 
 .cc-equip-pad {
-	padding:20px;
-	background-color:rgba(0,0,0,0.4);
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
 .cc-mentions {
-	padding-top:10px;
-	font-size:11px;
+  padding-top: 10px;
+  font-size: 11px;
 }
 
 .scrolloff {
-    pointer-events: none;
+  pointer-events: none;
 }
 
 .cc-bg {
-	background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-position: center;
-	background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .cc-bg-securite-sociale {
-	background-image: url(img/ss-background.jpg);
+  background-image: url(img/ss-background.jpg);
 }
 
 .cc-bg-wash {
-	background-image: url("imgs/cc-studio/bg_studio_1.jpg");
-}  
-
-.cc-link {
-	color:#899639;
+  background-image: url("imgs/cc-studio/bg_studio_1.jpg");
 }
 
-.cc-gallery{
-	padding:1px;
+.cc-link {
+  color: #899639;
+}
+
+.cc-gallery {
+  padding: 1px;
 }
 
 .cc-gallery-sc-1 {
-	background-image:url(img/studio-capillaire/1.jpg);
+  background-image: url(img/studio-capillaire/1.jpg);
 }
 
 .cc-gallery-sc-2 {
-	background-image:url(img/studio-capillaire/2.jpg);
+  background-image: url(img/studio-capillaire/2.jpg);
 }
 
 .cc-gallery-sc-3 {
-	background-image:url(img/studio-capillaire/3.jpg);
+  background-image: url(img/studio-capillaire/3.jpg);
 }
 
 .cc-gallery-pe-1 {
-	background-image:url(imgs/cc-studio/perruques/1.jpg);
+  background-image: url(imgs/cc-studio/perruques/1.jpg);
 }
 
 .cc-gallery-pe-2 {
-	background-image:url(imgs/cc-studio/perruques/2.jpg);
+  background-image: url(imgs/cc-studio/perruques/2.jpg);
 }
 
 .cc-gallery-pe-3 {
-	background-image:url(imgs/cc-studio/perruques/3.jpg);
+  background-image: url(imgs/cc-studio/perruques/3.jpg);
 }
 
 .cc-gallery-pe-4 {
-	background-image:url(imgs/cc-studio/perruques/4.jpg);
+  background-image: url(imgs/cc-studio/perruques/4.jpg);
 }
 
 .cc-gallery-pe-brand-1 {
-	background-image:url(imgs/cc-studio/perruques/brand1.jpg);
+  background-image: url(imgs/cc-studio/perruques/brand1.jpg);
 }
 
 .cc-gallery-pe-brand-2 {
-	background-image:url(imgs/cc-studio/perruques/brand2.jpg);
+  background-image: url(imgs/cc-studio/perruques/brand2.jpg);
 }
 
 .cc-gallery-pe-brand-4 {
-	background-image:url(imgs/cc-studio/perruques/brand4.jpg);
+  background-image: url(imgs/cc-studio/perruques/brand4.jpg);
 }
 
 .cc-gallery-pee-1 {
-	background-image:url(imgs/cc-studio/perruques/e1.jpg);
+  background-image: url(imgs/cc-studio/perruques/e1.jpg);
 }
 
 .cc-gallery-pee-2 {
-	background-image:url(imgs/cc-studio/perruques/e2.jpg);
+  background-image: url(imgs/cc-studio/perruques/e2.jpg);
 }
 
 .cc-gallery-eye-1 {
-	background-image:url(img/eye/1.jpg);
+  background-image: url(img/eye/1.jpg);
 }
 
 .cc-gallery-eye-2 {
-	background-image:url(img/eye/2.jpg);
+  background-image: url(img/eye/2.jpg);
 }
 
 .cc-gallery-tu-1 {
-	background-image:url(img/turban/1.jpg);
+  background-image: url(img/turban/1.jpg);
 }
 
 .cc-gallery-tu-2 {
-	background-image:url(img/turban/2.jpg);
+  background-image: url(img/turban/2.jpg);
 }
 
 .cc-gallery-tu-3 {
-	background-image:url(img/turban/3.jpg);
+  background-image: url(img/turban/3.jpg);
 }
 
 .cc-gallery-ch-1 {
-	background-image:url(img/clim-hair/1.jpg);
+  background-image: url(img/clim-hair/1.jpg);
 }
 
 .cc-gallery-ch-2 {
-	background-image:url(img/clim-hair/2.jpg);
+  background-image: url(img/clim-hair/2.jpg);
 }
 
 .cc-gallery-ch-3 {
-	background-image:url(img/clim-hair/3.jpg);
+  background-image: url(img/clim-hair/3.jpg);
 }
 
 .cc-gallery-vol-1 {
-	background-image:url(imgs/cc-studio/vol/1.jpg);
+  background-image: url(imgs/cc-studio/vol/1.jpg);
 }
 
 .cc-gallery-vol-2 {
-	background-image:url(imgs/cc-studio/vol/2.jpg);
+  background-image: url(imgs/cc-studio/vol/2.jpg);
 }
 
 .cc-gallery-vol-3 {
-	background-image:url(imgs/cc-studio/vol/3.jpg);
+  background-image: url(imgs/cc-studio/vol/3.jpg);
 }
 
 .cc-gallery-comp-1 {
-	background-image:url(imgs/cc-studio/comp/1.jpg);
+  background-image: url(imgs/cc-studio/comp/1.jpg);
 }
 
 .cc-gallery-comp-2 {
-	background-image:url(imgs/cc-studio/comp/2.jpg);
+  background-image: url(imgs/cc-studio/comp/2.jpg);
 }
 
 .cc-gallery-comp-3 {
-	background-image:url(imgs/cc-studio/comp/3.jpg);
+  background-image: url(imgs/cc-studio/comp/3.jpg);
 }
 
 .cc-gallery-prot-1 {
-	background-image:url(imgs/cc-studio/prot/1.jpg);
+  background-image: url(imgs/cc-studio/prot/1.jpg);
 }
 
 .cc-gallery-prot-2 {
-	background-image:url(imgs/cc-studio/prot/2.jpg);
+  background-image: url(imgs/cc-studio/prot/2.jpg);
 }
 
 .cc-gallery-prot-3 {
-	background-image:url(imgs/cc-studio/prot/3.jpg);
+  background-image: url(imgs/cc-studio/prot/3.jpg);
 }
 
 .cc-gallery-epil-1 {
-	background-image:url(img/Jean_Marin.jpg);
+  background-image: url(img/Jean_Marin.jpg);
 }
 
 .cc-gallery-ext-1 {
-	background-image:url(imgs/cc-studio/ext/1.jpg);
+  background-image: url(imgs/cc-studio/ext/1.jpg);
 }
 
 .cc-gallery-ext-2 {
-	background-image:url(imgs/cc-studio/ext/2.jpg);
+  background-image: url(imgs/cc-studio/ext/2.jpg);
 }
 
 .cc-gallery-ext-3 {
-	background-image:url(imgs/cc-studio/ext/3.jpg);
+  background-image: url(imgs/cc-studio/ext/3.jpg);
 }
 
 .cc-gallery-ext-4 {
-	background-image:url(imgs/cc-studio/ext/4.jpg);
+  background-image: url(imgs/cc-studio/ext/4.jpg);
 }
 
 .cc-gallery-ext-5 {
-	background-image:url(imgs/cc-studio/ext/5.jpg);
+  background-image: url(imgs/cc-studio/ext/5.jpg);
 }
 
 .cc-gallery-ext-6 {
-	background-image:url(imgs/cc-studio/ext/6.jpg);
+  background-image: url(imgs/cc-studio/ext/6.jpg);
 }
 
 .cc-gallery-ext-7 {
-	background-image:url(imgs/cc-studio/ext/7.jpg);
+  background-image: url(imgs/cc-studio/ext/7.jpg);
 }
 
 .cc-gallery-ext-8 {
-	background-image:url(imgs/cc-studio/ext/8.jpg);
+  background-image: url(imgs/cc-studio/ext/8.jpg);
 }
 
-.cc-partenaire1{
-	background:url(imgs/cc-equipe/links/mary-cohr.gif);
-	height:200px;
-	width:200px;
-	background-size:contain;
-	float:left;
-	margin-right:10px;
+.cc-partenaire1 {
+  background: url(imgs/cc-equipe/links/mary-cohr.gif);
+  height: 200px;
+  width: 200px;
+  background-size: contain;
+  float: left;
+  margin-right: 10px;
 }
 
 .form-control:focus {
-    border-color: #b39a7f;
-    outline: 0;
-    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px #b39a7f;
-    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px #b39a7f;
+  border-color: #b39a7f;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px #b39a7f;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px #b39a7f;
 }
 
 .cc-studio-white > .container {
-	background-color: rgba(255,255,255, 0.8);
-    padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
 }
 
-.cc-studio-brown > .container{
-	background-color: rgba(181, 155, 128, 0.72);
-    padding: 20px;
+.cc-studio-brown > .container {
+  background-color: rgba(181, 155, 128, 0.72);
+  padding: 20px;
 }
 
 .cc-brown {
-	background-color:#b39a7f;
+  background-color: #b39a7f;
 }
 
-.cc-brown h1, .cc-brown h2, .cc-brown h3, .cc-brown h4, .cc-brown a{
-	color:#FFF;
+.cc-brown h1,
+.cc-brown h2,
+.cc-brown h3,
+.cc-brown h4,
+.cc-brown a {
+  color: #fff;
 }
 
-.cc-brown h5{
-	color:#FFF;
-	font-weight:bold;
-	margin-top:30px;
+.cc-brown h5 {
+  color: #fff;
+  font-weight: bold;
+  margin-top: 30px;
 }
 
 .cc-studio-black {
-	color: #FFF;
-	
+  color: #fff;
 }
 
 .cc-studio-black > .container {
-    background-color: rgba(0,0,0,0.6);
-	padding: 20px;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
 }
 
-.cc-studio-back3 b, .cc-studio-back3 h1 {
-	color:#fff;
+.cc-studio-back3 b,
+.cc-studio-back3 h1 {
+  color: #fff;
 }
 
-.cc-studio-back4{
-	background-color:#b39a7f;
-
+.cc-studio-back4 {
+  background-color: #b39a7f;
 }
 
-.cc-studio-back4 h4, .cc-studio-back4 a{
-	color:#fff;
+.cc-studio-back4 h4,
+.cc-studio-back4 a {
+  color: #fff;
 }
 
+/* Specific size */
+/* Custom, iPhone Retina */
+@media only screen and (min-width: 320px) {
+  .body-padding {
+    padding-top: 280px;
+  }
 
-/* Specific size */ 
-/* Custom, iPhone Retina */ 
-@media only screen and (min-width : 320px) {
-      .body-padding {
-		padding-top:280px;
-	}
-		
-	.cc-nav {
-		bottom:0px;
-		right:10px;
-		margin-right: -5px !important;
-	}
-	
-	#cc-backgroundDiv {
-		width: 100%;
-		height: 240px;
-		margin-top: 50px;
-		padding-top: 20px;
-	}
-	
-	#cc-backgroundContainer {
-		width:100%;
-		margin: auto;
-	}
+  .cc-nav {
+    bottom: 0px;
+    right: 10px;
+    margin-right: -5px !important;
+  }
 
-	.cc-backgroundNav {
-		padding-left:0px;
-		padding-right:0px;
-	}
-	
-	#cc-logoContainer {
-		width: 300px;
-		left: 50%;
-		position: relative;
-		margin-left: -150px;
-		margin-top:10px;
-	}
-	
-	#cc-logoDiv {
-		background: url("imgs/cc-accueil/logo.png") no-repeat center; 
-		background-size: 300px 116px;
-		box-shadow: 0 0 10px #888;
-		width: 300px;
-		height: 116px;
-	}
+  #cc-backgroundDiv {
+    width: 100%;
+    height: 240px;
+    margin-top: 50px;
+    padding-top: 20px;
+  }
 
-	.cc-centerNav {
-		width: 100%;
-		margin: auto;
-		float: initial;
-		border-bottom: 1px solid #B39A7F;
-	}
-	
-	.cc-nomargin{
-		margin:0px;
-	} 
-	
-	.navbar-fixed-top{
-		border-color: #000;
-	}
+  #cc-backgroundContainer {
+    width: 100%;
+    margin: auto;
+  }
+
+  .cc-backgroundNav {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  #cc-logoContainer {
+    width: 300px;
+    left: 50%;
+    position: relative;
+    margin-left: -150px;
+    margin-top: 10px;
+  }
+
+  #cc-logoDiv {
+    background: url("imgs/cc-accueil/logo.png") no-repeat center;
+    background-size: 300px 116px;
+    box-shadow: 0 0 10px #888;
+    width: 300px;
+    height: 116px;
+  }
+
+  .cc-centerNav {
+    width: 100%;
+    margin: auto;
+    float: initial;
+    border-bottom: 1px solid #b39a7f;
+  }
+
+  .cc-nomargin {
+    margin: 0px;
+  }
+
+  .navbar-fixed-top {
+    border-color: #000;
+  }
 }
 
-/* Extra Small Devices, Phones */ 
-@media only screen and (min-width : 480px) {
-
+/* Extra Small Devices, Phones */
+@media only screen and (min-width: 480px) {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width : 768px) {
-	.body-padding {
-		padding-top:300px;
-	}
-	
-	.cc-nav {
-		position:absolute;
-		bottom:0px;
-		right:10px;
-		margin-right: -5px !important;
-	}
+@media only screen and (min-width: 768px) {
+  .cc-img-front-portrait {
+    width: 55%;
+  }
 
-	#cc-backgroundDiv {
-		width: 100%;
-		height: 250px;
-		padding-top:50px;
+  .cc-portrait {
+    height: 300px;
+    width: 300px;
+    padding: 0px;
+    margin: auto;
+  }
 
-	}
-	
-	.cc-logo-background {
-		background: url(imgs/cc-accueil/main_background.jpg) no-repeat top;
-		margin-bottom: 0px;
-		border-bottom: 1px solid #B39A7F;
-		background-size: cover;
-		height: 100%;
-		background-attachment: fixed;
-	}
-	
-	#cc-backgroundContainer {
-		width:400px;
-		margin: auto;
-	}
+  .body-padding {
+    padding-top: 300px;
+  }
 
-	
-	#cc-logoContainer {
-		width: 350px;
-		left: 50%;
-		position: relative;
-		margin-left: -175px;
-		margin-top:2px;
-		margin-bottom:10px;
-	}
-	
-	#cc-logoDiv {
-		background: url("imgs/cc-accueil/logo.png") no-repeat center; 
-		background-size: 350px 135px;
-		box-shadow: 0 0 10px #000;
-		width: 350px;
-		height: 135px;
+  .cc-nav {
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+    margin-right: -5px !important;
+  }
 
-	}
-	
-	.cc-centerNav {
-		width: 690px;
-		margin: auto;
-		float: initial;
-		border-bottom:0px;
-	}
-	.cc-select-top {
-		height: 360px;
-		
-	}
-	.cc-select-extension {
-		height: 680px;
-		
-	}
+  #cc-backgroundDiv {
+    width: 100%;
+    height: 250px;
+    padding-top: 50px;
+  }
 
-	.cc-securite-sociale{
-		padding:30px;
-	}
-	
-	.cc-container-esthetique {
-		padding:30px;
-	}
+  .cc-logo-background {
+    background: url(imgs/cc-accueil/main_background.jpg) no-repeat top;
+    margin-bottom: 0px;
+    border-bottom: 1px solid #b39a7f;
+    background-size: cover;
+    height: 100%;
+    background-attachment: fixed;
+  }
+
+  #cc-backgroundContainer {
+    width: 400px;
+    margin: auto;
+  }
+
+  #cc-logoContainer {
+    width: 350px;
+    left: 50%;
+    position: relative;
+    margin-left: -175px;
+    margin-top: 2px;
+    margin-bottom: 10px;
+  }
+
+  #cc-logoDiv {
+    background: url("imgs/cc-accueil/logo.png") no-repeat center;
+    background-size: 350px 135px;
+    box-shadow: 0 0 10px #000;
+    width: 350px;
+    height: 135px;
+  }
+
+  .cc-centerNav {
+    width: 690px;
+    margin: auto;
+    float: initial;
+    border-bottom: 0px;
+  }
+  .cc-select-top {
+    height: 420px;
+  }
+  .cc-select-extension {
+    height: 680px;
+  }
+
+  .cc-securite-sociale {
+    padding: 30px;
+  }
+
+  .cc-container-esthetique {
+    padding: 30px;
+  }
 }
 
 /* Medium Devices, Desktops */
-@media only screen and (min-width : 992px) {
-	.cc-select-extension {
-		height: 560px;
-		
-	}
-	
-	
+@media only screen and (min-width: 992px) {
+  .cc-select-extension {
+    height: 560px;
+  }
 }
 
 /* Large Devices, Wide Screens */
-@media only screen and (min-width : 1200px) {
-	.cc-select-extension {
-		height: 520px;
-		
-	}
-	
-	#cc-backgroundDiv {
-		width: 100%;
-		height: 260px;
-		padding-top:20px;
+@media only screen and (min-width: 1200px) {
+  .cc-select-extension {
+    height: 520px;
+  }
 
-	}
-	
-	#cc-logoContainer {
-		width: 400px;
-		left: 50%;
-		position: relative;
-		margin-left: -200px;
-		margin-top:10px;
-		margin-bottom:10px;
-	}
-	
-	#cc-logoDiv {
-		background: url("imgs/cc-accueil/logo.png") no-repeat center; 
-		background-size: 400px 155px;
-		box-shadow: 0 0 10px #000;
-		width: 400px;
-		height: 155px;
+  #cc-backgroundDiv {
+    width: 100%;
+    height: 260px;
+    padding-top: 20px;
+  }
 
-	}
+  #cc-logoContainer {
+    width: 400px;
+    left: 50%;
+    position: relative;
+    margin-left: -200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  #cc-logoDiv {
+    background: url("imgs/cc-accueil/logo.png") no-repeat center;
+    background-size: 400px 155px;
+    box-shadow: 0 0 10px #000;
+    width: 400px;
+    height: 155px;
+  }
 }
 
-@media only screen and (min-width : 1600px) {
-	.cc-select-extension {
-		height: 520px;
-		
-	}
-	
-	#cc-backgroundDiv {
-		width: 100%;
-		height: 350px;
-		padding-top:50px;
+@media only screen and (min-width: 1600px) {
+  .cc-select-extension {
+    height: 520px;
+  }
 
-	}
-	
-	#cc-logoContainer {
-		width: 450px;
-		left: 50%;
-		position: relative;
-		margin-left: -225px;
-		margin-top:10px;
-		margin-bottom:10px;
-	}
-	
-	#cc-logoDiv {
-		background: url("imgs/cc-accueil/logo.png") no-repeat center; 
-		background-size: 450px 209px;
-		box-shadow: 0 0 10px #000;
-		width: 450px;
-		height: 209px;
+  #cc-backgroundDiv {
+    width: 100%;
+    height: 350px;
+    padding-top: 50px;
+  }
 
-	}
+  #cc-logoContainer {
+    width: 450px;
+    left: 50%;
+    position: relative;
+    margin-left: -225px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  #cc-logoDiv {
+    background: url("imgs/cc-accueil/logo.png") no-repeat center;
+    background-size: 450px 209px;
+    box-shadow: 0 0 10px #000;
+    width: 450px;
+    height: 209px;
+  }
 }
