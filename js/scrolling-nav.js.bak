@@ -1,0 +1,104 @@
+//jQuery to collapse the navbar on scroll
+$(window).scroll(changeCC);
+$(window).resize(changeCC);
+
+
+function changeCC() 
+{
+	/*if($(document).width() > 750)
+	{
+		if ($(document).scrollTop() > 250) 
+		{
+			$(".navbar").addClass("navbar-fixed-top navbar-scrolling");
+			$("#page-top").addClass("body-padding");
+			$('#cc-logoContainer').css("display","none");
+			$('#cc-rezoContainer').css("display","none");
+			$('#cc-backgroundDiv').css("height","50px");
+			$(".cc-logo-background").addClass("cc-logo-background-scroll");
+			
+		} 
+		else 
+		{
+			$(".navbar").removeClass("navbar-fixed-top navbar-scrolling");
+			$("#page-top").removeClass("body-padding");
+			$('#cc-logoContainer').css("display","block");
+			$('#cc-rezoContainer').css("display","block");
+			$('#cc-backgroundDiv').css("height","300px");
+			$(".cc-logo-background").removeClass("cc-logo-background-scroll");
+		}
+				
+		if ($(document).scrollTop() > $("#studio-capillaire").offset().top) 
+		{
+			$(".cc-nav-hidden").show();
+			$("#cc-backgroundContainer").css("width","688px");
+			$(".cc-centerNav").css("width","100%");
+		} 
+		else 
+		{
+			$(".cc-nav-hidden").hide();
+			$("#cc-backgroundContainer").css("width","400px");
+			$(".cc-centerNav").css("width","350px");
+		}
+	}
+	else
+	{
+		if ($(document).scrollTop() > 210) 
+		{
+			$(".navbar").addClass("navbar-fixed-top navbar-scrolling");
+			$("#page-top").addClass("body-padding");
+			$('#cc-logoContainer').css("display","none");
+			$('#cc-rezoContainer').css("display","none");
+			$('#cc-backgroundDiv').css("height","50px");
+		} 
+		else 
+		{
+			$(".navbar").removeClass("navbar-fixed-top navbar-scrolling");
+			$("#page-top").removeClass("body-padding");
+			$('#cc-logoContainer').css("display","block");
+			$('#cc-rezoContainer').css("display","block");
+			$('#cc-backgroundDiv').css("height","260px");
+		}
+		$("#cc-backgroundContainer").css("width","100%");
+		$(".cc-centerNav").css("width","100%");
+	}*/
+
+	var x = $(document).scrollTop();
+	$('.cc-logo-background').css('background-position', '0% ' + parseInt((x / 2) -200)  + 'px');
+	
+	var x = $(document).scrollTop();
+	$('.cc-background-studio').css('background-position', '0% ' + parseInt((x / 2) -800)  + 'px');
+	var x = $(document).scrollTop();
+	$('.cc-background-volumateur').css('background-position', '0% ' + parseInt((x / 2) -1200)  + 'px');
+	
+	
+	
+ }
+
+//jQuery for page scrolling feature - requires jQuery Easing plugin
+$(function() {
+    $('.page-scroll').bind('click', function(event) {
+        var $anchor = $(this);
+        $('html, body').stop().animate({
+            scrollTop: $($anchor.attr('href')).offset().top
+        }, 1500, 'easeInOutExpo');
+        event.preventDefault();
+    });
+	
+	$('.cc-logo-es').hover(function(event) {
+        $(".cc-logo-es .cc-logo").addClass("cc-white-transparancy");
+    },function(event) {
+        $(".cc-logo-es .cc-logo").removeClass("cc-white-transparancy");
+    });
+	
+	$('.cc-logo-sc').hover(function(event) {
+        $(".cc-logo-sc .cc-logo").addClass("cc-white-transparancy");
+    },function(event) {
+        $(".cc-logo-sc .cc-logo").removeClass("cc-white-transparancy");
+    });
+	
+	$('.cc-logo-co').hover(function(event) {
+        $(".cc-logo-co .cc-logo").addClass("cc-white-transparancy");
+    },function(event) {
+        $(".cc-logo-co .cc-logo").removeClass("cc-white-transparancy");
+    });
+});

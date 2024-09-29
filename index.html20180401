@@ -58,7 +58,7 @@
 						<li class="cc-nav-hidden">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">COIFFURE</a>
 							<ul class="dropdown-menu">
-								<li><a class="page-scroll" href="#coiffure">Accueil</a></li>
+								<li><a class="page-scroll" href="#coiffure">Acceuil</a></li>
 								<li><a class="page-scroll" href="#coiffure-prestations">Prestations</a></li>
 								<li><a class="page-scroll" href="#coiffure-specialites">Spécialités</a></li>
 								<!--<li><a class="page-scroll" href="#coiffure-produits">Produits</a></li>
@@ -71,7 +71,7 @@
 						<li class="cc-nav-hidden">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">STUDIO CAPILAIRE</a>
 							<ul class="dropdown-menu">
-								<li><a class="page-scroll" href="#studio-capillaire">Accueil</a></li>
+								<li><a class="page-scroll" href="#studio-capillaire">Acceuil</a></li>
 								<li><a class="page-scroll" href="#perruques">Perruques</a></li>
 								<li><a class="page-scroll" href="#soins-accessoires">Accessoires &amp; Soins</a></li>
 								<li><a class="page-scroll" href="#volumateurs">Volumateurs</a></li>
@@ -86,7 +86,7 @@
 						<li class="cc-nav-hidden dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ESTHÉTIQUE</a>
 							<ul class="dropdown-menu">
-								<li><a class="page-scroll" href="#esthetique">Accueil</a></li>
+								<li><a class="page-scroll" href="#esthetique">Acceuil</a></li>
 								<li><a class="page-scroll" href="#esthetique-prestations">Prestations</a></li>
 								<li><a class="page-scroll" href="#esthetique-onglerie">Onglerie</a></li>
 								<li><a class="page-scroll" href="#esthetique-specialites">Spécialités</a></li>
@@ -206,12 +206,12 @@
 				<div class="row">
 					<div class="col-xs-12">
 						<ul class="cc-bon-plan">
-							<li><b>Mardi:</b> -20% sur coloration, mèches, permanente.</li>
-							<li><b>Jeudi:</b> Femme Shampooing Coupe Coiffage à 28€.</li>
-							<li><b>Samedi:</b> Homme Shampooing Coupe Coiffage à 16€.</li>
-							<li><b>Etudiant:</b> -20ans Profitez de -20% sur toutes nos prestations et produits tous les jours hors Tarifs Journée promotionnelle.</li>
-							<li><b>Carte parrainage:</b> Présentez nous un(e) client(e) qui ne nous connait pas encore, afin que lui et vous puissiez bénéficier de -20%, valable 1 fois sur le montant total de votre facture.</li>
-							<li><b>Bon cadeau:</b> Pensez aux bons cadeaux pour les fêtes de Noël, anniversaires, etc...</li>
+							<li><b>Mardi:</b>-20% sur coloration, mèches, permanente.</li>
+							<li><b>Jeudi:</b>Femme Shampooing Coupe Coiffage à 28€.</li>
+							<li><b>Samedi:</b>Homme Shampooing Coupe Coiffage à 16€.</li>
+							<li><b>Etudiant:</b>-20ans Profitez de -20% sur toutes nos prestations et produits tous les jours hors Tarifs Journée promotionnelle.</li>
+							<li><b>Carte parrainage:</b>Présentez nous un(e) client(e) qui ne nous connait pas encore, afin que lui et vous puissiez bénéficier de -20%, valable 1 fois sur le montant total de votre facture.</li>
+							<li><b>Bon cadeau:</b>Pensez aux bons cadeaux pour les fêtes de Noël, anniversaires, etc...</li>
 						</ul>
 						Pour Profiter des Bons Plans <a class="page-scroll" href="#about-contact">prenez rendez-vous !</a>
 					</div>
@@ -1125,15 +1125,12 @@
 				<div class="row">
 					<div class="col-xs-12">
 						<ul class="cc-bon-plan">
-							<!--<li><b>Mardi:</b>-20% sur les soins visage (hors forfaits)</li>
+							<li><b>Mardi:</b>-20% sur les soins visage (hors forfaits)</li>
 							<li><b>Vendredi:</b>-20% sur les épilations (à partir de 20€)</li>
-							<li><b>Samedi:</b>Homme -20% sur toutes prestations esthétique. (à partir de 20€)</li>-->
-							<li style="font-size:20px;color:red"><b>Offre LPG, Valable jusqu'au 30/04/2018</b></li>
-							<li style="font-size:20px;color:red"><b>Un forfait Cellu M6 10 scéances à 350€ au lieu de 400€ <br/>+ 1 crème éclat revitalisante corps offerte</b></li>
-							<li>&nbsp;</li>
-							<li><b>Etudiant:</b> -20ans Profitez de -20% sur toutes nos prestations et produits tous les jours (hors Tarifs Journée promotionnel.)</li>
-							<li><b>Carte parrainage:</b> Présentez nous un client(e) qui ne nous connait pas encore afin que lui et vous puissiez bénéficier de -20% de réduction, valable 1 fois sur le montant total de votre facture.</li>
-							<li><b>Bon cadeau:</b> Pensez aux bons cadeaux pour les Fêtes de Noël, Anniversaires, etc...</li>
+							<li><b>Samedi:</b>Homme -20% sur toutes prestations esthétique. (à partir de 20€)</li>
+							<li><b>Etudiant:</b>-20ans Profitez de -20% sur toutes nos prestations et produits tous les jours (hors Tarifs Journée promotionnel.)</li>
+							<li><b>Carte parrainage:</b>Présentez nous un client(e) qui ne nous connait pas encore afin que lui et vous puissiez bénéficier de -20% de réduction, valable 1 fois sur le montant total de votre facture.</li>
+							<li><b>Bon cadeau:</b>Pensez aux bons cadeaux pour les Fêtes de Noël, Anniversaires, etc...</li>
 						</ul>
 						Pour Profiter des Bons Plans <a class="page-scroll" href="#about-contact">prenez rendez-vous !</a>
 					</div>
@@ -1641,38 +1638,14 @@
 					</div>
 				</div>-->
 				<div class="row">
-					<div class="col-md-offset-2 col-md-4 col-sm-6">
+					<div class="col-md-4 col-sm-6">
 						<div class="cc-portrait cc-perso1"></div>
 						<div class="cc-pad-portrait">
 							<p class="cc-center">
 								SYLVIE
 							</p>
 							<p class="cc-center">
-								<i>Notre Responsable<br/>Coiffure et Esthetique</i>
-							</p>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-6">
-						<div class="cc-portrait cc-perso5"></div>
-						<div class="cc-pad-portrait">
-							<p class="cc-center">
-								SANDRA 
-							</p>
-							<p class="cc-center">
-								<i>Notre Responsable<br/>Styliste Ongulaire</i>
-							</p> 
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-offset-2 col-md-4 col-sm-6">
-						<div class="cc-portrait cc-perso3"></div>
-						<div class="cc-pad-portrait">
-							<p class="cc-center">
-								SARA
-							</p>
-							<p class="cc-center">
-								<i>Notre Coiffeuse</i>
+								<i>Notre Responsable</i>
 							</p>
 						</div>
 					</div>
@@ -1685,6 +1658,41 @@
 							<p class="cc-center">
 								<i>Notre Junior</i>
 							</p>
+						</div>
+					</div>
+					<div class="col-md-offset-0 col-sm-offset-3 col-md-4 col-sm-6">
+						<div class="cc-portrait cc-perso3"></div>
+						<div class="cc-pad-portrait">
+							<p class="cc-center">
+								SARA
+							</p>
+							<p class="cc-center">
+								<i>Notre Coiffeuse</i>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-offset-2 col-md-4 col-sm-6">
+						<div class="cc-portrait cc-perso4"></div>
+						<div class="cc-pad-portrait">
+							<p class="cc-center">
+								CINDY
+							</p>
+							<p class="cc-center">
+								<i>Notre Esthéticienne</i>
+							</p> 
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="cc-portrait cc-perso5"></div>
+						<div class="cc-pad-portrait">
+							<p class="cc-center">
+								SANDRA 
+							</p>
+							<p class="cc-center">
+								<i>Notre Styliste Ongulaire</i>
+							</p> 
 						</div>
 					</div>
 				</div>
@@ -1797,16 +1805,16 @@
 					<div class="col-sm-6 col-lg-6">
 						<h4>Nous suivre</h4>
 						<ul class="cc-rezo">
-							<li><i class="fa fa-facebook"></i><a href="https://www.facebook.com/Cocktail-Coiffure-Esth%C3%A9tique-Studio-Capillaire-Perruques-170564083727633/" target="blank">Notre page Facebook</a></li>
+							<li><i class="fa fa-facebook"></i><a href="https://www.facebook.com/CocktailCoiffureEsthetique/" target="blank">Notre page Facebook</a></li>
 							<li><i class="fa fa-phone"></i><a href="tel:0388829390">03 88 82 93 90</a></li>
 							<li><i class="fa fa-home"></i><a href="google.navigation:q=14 Rue d'Ebersheim, 67600 Sélestat, France">14 Rue d'Ebersheim, 67600 Sélestat</a></li>
 						</ul>
 						<h4>Nos horaires d'ouvertures</h4>
 						<ul class="cc-rezo">
 							<li><b>Mardi:</b>09:00 - 18:00</li>
-							<li><b>Mercredi:</b>14:00 - 18:00</li>
+							<li><b>Mercredi:</b>13:00 - 17:00</li>
 							<li><b>Jeudi:</b>09:00 - 18:00</li>
-							<li><b>Vendredi:</b>14:00 - 20:00</li>
+							<li><b>Vendredi:</b>13:00 - 20:00</li>
 							<li><b>Samedi:</b>09:00 - 16:00</li>
 						</ul>
 					</div>

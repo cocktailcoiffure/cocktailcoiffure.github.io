@@ -1,0 +1,1079 @@
+/* custom font */
+@font-face {
+    font-family: "Copperplate";
+    src: url(../fonts/Copperplate Gothic Bold Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "CopperplateBold";
+    src: url(../fonts/Copperplate_Bold.ttf) format("truetype");
+}
+
+
+/* general CSS */
+body { 
+ 
+	text-decoration: none !important;
+	background-color:#E6E6E5;
+}
+a:hover { 
+	text-decoration: none !important;
+}
+
+a {
+	text-decoration: none !important;
+}
+
+h1, h2, h3, h4 {
+	font-family: "CopperplateBold";
+    color: #899639;
+	text-align: center;
+	margin:0px;
+	padding-top:20px;
+	padding-bottom:10px;
+	
+}
+
+h4 {
+	text-align:left;
+	padding-left:10px;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+	outline: none;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+}
+
+/* specific CSS */
+.cc-circle
+  {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    background-color: #b39a7f;
+	color: #FFF;
+    padding-top: 15px;
+	margin: 40px auto;
+  }
+
+.dropdown-menu>.active>a {
+	background-color: #B39A7F;
+}
+
+.cc-section {
+	min-height:100vh;
+	padding-top:60px;
+	padding-bottom:60px;
+}
+  
+.cc-select p {
+
+	margin-bottom:0px;
+}
+
+.cc-header {
+	border-bottom:1px solid #B39A7F;
+	margin-bottom:20px;
+}
+.cc-header-dot {
+	border-bottom:1px solid #899639;
+	height: 30px;
+}
+
+.cc-header-dot-center {
+	color:#899639;
+	font-size: 24px;
+}
+
+.cc-header-dot-center h3 {
+	padding:0px;
+	margin-bottom: 20px;
+}
+
+.cc-header-dot-center h2 {
+	padding:0px;
+	margin-bottom: 20px;
+}
+
+
+.cc-select {
+	background-color: #fff;
+    margin: 20px 0px 0px 0px;
+    box-shadow: 0 0 10px #000;
+
+    font-family: "CopperplateBold";
+}
+
+.cc-select p {
+    padding: 0px 30px 10px 30px;
+    text-align: center;
+    font-family: "Times New Roman";
+}
+
+.cc-google-map {
+	width:100%;
+	height:500px;
+    box-shadow: 0 0 10px #888;
+	
+}
+
+.cc-arrow-down {
+	height:20px;
+	width:20px;
+	margin: 0 auto; 
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
+	border-top: 10px solid #fff;
+}
+
+.cc_img {
+	width:100%;
+}
+
+.cc_img_50 {
+	width:50%;
+	float:left;
+	padding: 2px;
+}
+
+.cc_img_25 {
+	width:25%;
+	float:left;
+	padding: 2px;
+}
+
+.cc_img_33 {
+	width:33%;
+	float:left;
+	padding: 2px;
+}
+
+.cc_img_66 {
+	width:66%;
+	float:left;
+	padding: 2px;
+}
+
+.cc-eye-pad {
+	padding-bottom:30px;
+}
+
+.cc-eye-span {
+	margin-top: 150px;
+    display: block;
+}
+
+.cc-eye-pad-bottom {
+	padding-bottom:12px;
+}
+.cc-eye-pad-top {
+	padding-top:12px;
+}
+
+
+.cc-container-esthetique {
+	padding-top:30px;
+	padding-bottom:30px;
+}
+
+.cc-studio-img2{
+	background-image: url("img/studio-capillaire/studio_img2.jpg");
+}
+.cc-padding{
+	height:2px;
+	background-color:#fff;
+}
+
+.cc-menu-padding{
+	padding-top:13px;
+}
+
+.cc-light-background {
+	background-color:#d7d7b1;
+
+}
+.cc-button {
+	border: solid 1px #B39A7F;
+    color: #B39A7F;
+    background-color: #FFF;
+    border-radius: 4px;
+    margin-left: 50%;
+    position: relative;
+    left: -50px;
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+.cc-button:hover {
+	border: solid 1px #899639;
+    color: #FFF;
+    background-color: #899639;
+
+}
+
+.cc-pad-bottom {
+	padding-bottom:60px;
+}
+
+
+.cc-intro-gradiant {
+	background: #c3c3c4; /* Old browsers */
+	background: -moz-linear-gradient(left,  #c3c3c4 0%, #c3c3c4 50%, #f4f4f6 50%, #f4f4f6 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  #c3c3c4 0%,#c3c3c4 50%,#f4f4f6 50%,#f4f4f6 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  #c3c3c4 0%,#c3c3c4 50%,#f4f4f6 50%,#f4f4f6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c3c3c4', endColorstr='#f4f4f6',GradientType=1 ); /* IE6-9 */
+}
+
+.cc-logo {
+	width:100%;	
+	background-size: contain !important;
+    height: 0;
+    padding-top: 50%;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+}
+
+.cc-logo-2 {
+	width:100%;	
+	background-size: contain !important;
+    height: 0;
+    padding-top: 120%;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+}
+
+.cc-logo-3 {
+	width:100%;	
+	background-size: contain !important;
+    height: 0;
+    padding-top: 60%;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+}
+
+.cc-logo-4 {
+	width:100%;	
+	background-size: contain !important;
+    height: 0;
+    padding-top: 100%;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+}
+
+.cc-logo-5 {
+	width:100%;	
+	background-size: contain !important;
+    height: 0;
+    padding-top: 45%;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+}
+
+.cc-logo-6 {
+	width:100%;	
+	background-size: contain !important;
+    height: 0;
+    padding-top: 49.8%;
+	transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-webkit-transition: 0.5s ease;
+}
+
+
+.cc-logo-height {
+	background-image: url("img/extension.jpg");
+    background-size: 150px;
+    transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    -webkit-transition: 0.5s ease;
+    background-repeat: no-repeat;
+    padding-left: 165px;
+    padding-right: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+    min-height: 290px;
+    padding-bottom: 10px;
+}
+
+.cc-logo-sc .cc-logo {
+	background-image: url("img/header/studio.jpg");
+}
+
+.cc-logo-co .cc-logo {
+	background-image: url("img/header/coiffure.jpg");
+}
+
+.cc-logo-es .cc-logo{
+	background-image: url("img/header/esthetique.jpg");
+}
+
+.cc-logo-ex .cc-logo {
+	background-image: url("img/extension.jpg");
+}
+
+.cc-logo-background-scroll {
+	background-position: center -250px !important; 
+}
+
+.cc-white-transparancy {
+	opacity: 0.5;
+
+}
+
+.cc-rezo {
+	padding:7px 0px 10px 0px;
+	list-style-type: none;
+}
+
+.cc-rezo > a{
+    position: relative;
+    margin: 0 4px 0 5px;
+    border-radius: 500px;
+    background-color: #fff;
+    display: inline-block;
+    width: 43px;
+    height: 43px;
+    color: #B39A7F;
+    font: 24px/43px FontAwesome;
+	text-align:center;
+}
+
+ .cc-rezo > li > i{
+	position: relative;
+    padding: 5px 4px 0 5px;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    color: #B39A7F;
+    font: 20px FontAwesome;
+    text-align: center;
+ }
+ 
+  .cc-rezo > li > b,   .cc-rezo > li > i{
+      width: 80px;
+    display: inline-block;
+    text-align: right;
+    padding-right: 5px;
+ }
+ 
+  .cc-form-row{
+	padding:50px 0 50px 0;
+  }
+ .cc-form input, .cc-form button{
+    height: 40px;
+    padding-left: 10px;
+	margin:10px 0 10px 0;
+ }
+ .cc-form textarea{
+
+    height: 100px;
+	margin:10px 0 10px 0;
+ }
+.cc-rezo a:hover {
+	opacity: 0.5;
+	text-decoration: none;
+}
+
+#cc-rezoContainer {
+    text-align: center;
+}
+
+.cc-header-icons{
+	background-color:#805100;
+	border-radius:4px;
+	padding:3px 10px;
+	color:#C7b299;
+}
+
+.cc-centerNav li a{
+	padding-left:10px;
+	padding-right:10px;
+	   color: #B39A7F;
+}
+
+.cc-salon-header {
+	background: url("img/salon.jpg") no-repeat center; 
+}
+
+.cc-justify{
+	text-align:justify;
+}
+
+.cc-center{
+	text-align:center;
+}
+
+.cc-bg-studio {
+	background: url("img/studio_capillaire.jpg") no-repeat center; 
+}
+
+.cc-bg-volumateur {
+	background: url("img/background-volumateur.jpg") no-repeat center;		
+}
+
+.cc-bg-esthetique {
+	background: url("img/esthetique-background.jpg") no-repeat center;
+}
+
+.cc-bg-esthetique-1 {
+	background: url("img/bg_esthetique_1.jpg") no-repeat center;
+}
+
+.cc-bg-studio-1 {
+	background: url("img/bg_studio_1.jpg") no-repeat center;
+}
+
+.cc-bg-studio-2 {
+	background: url("img/bg_studio_2.jpg") no-repeat center;
+}
+
+.cc-bg-coiffure-1 {
+	background: url("img/bg_coiffure_1.jpg") no-repeat center;
+}
+
+.cc-bg-coiffure-2 {
+	background: url("img/bg_coiffure_2.jpg") no-repeat center;
+}
+
+.cc-volumateur div {
+	padding-bottom:40px;
+}
+
+.cc-logo-volumateur {
+	background: url("img/volumateur.jpg"); 
+	width: 100%;
+    background-size: contain;
+    height: 0;
+    padding-top: 50%;
+	box-shadow: 0 0 10px #888;
+}
+
+.cc-studio-background {
+	padding-top:100px;
+	padding-bottom:100px;
+}
+
+.cc-studio-background2 {
+    background-color: rgba(181, 155, 128, 0.72);
+	padding-top:100px;
+	padding-bottom:100px;
+	border-top: 1px solid #B39A7F
+}
+
+.cc-studio-back2 {
+
+}
+
+.cc-prestentation {
+	margin-bottom: 70px;
+
+}
+
+.cc-white {
+	color:white;
+}
+
+.cc-white-background {
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	background-color:white;
+	box-shadow: 0 0 10px #888;
+	margin-bottom:20px;
+}
+
+.cc-padded{
+	padding:10px;
+}
+
+.cc-mention{
+	text-align:center;
+	background-color:#B39A7F;
+	color:white;	
+	padding-bottom:200px;
+}
+
+.cc-ext-description {
+	margin-top:100px;
+}
+
+.cc-col-ext{
+	height:600px;
+}
+
+.cc-col-height{
+	height:100%;
+}
+.cc-height-fixed {
+	height: 1300px;
+}
+
+.cc-pad-top{
+	padding-top:15px;
+
+}
+
+.cc-portrait {
+	border-radius:50%;
+	height:200px;
+	width:200px;
+	padding: 0px;
+	margin:auto;
+
+}
+
+.cc-pad-portrait{
+	padding:20px;
+}
+
+.cc-bg-equip {
+	background:url(img/equipe-background.jpg) center no-repeat; 
+}
+
+.cc-perso1{
+	background:url(img/people/perso1.jpg) center no-repeat;
+	background-size: 100%;
+}
+
+.cc-perso2{
+	background:url(img/people/perso2.jpg) center no-repeat;
+	background-size: 100%;
+}
+
+
+.cc-perso3{
+	background:url(img/people/perso3.jpg) center no-repeat;
+	background-size: 100%;
+}
+
+
+.cc-perso4{
+	background:url(img/people/perso4.jpg) center no-repeat;
+	background-size: 100%;
+}
+
+.cc-perso5{
+	background:url(img/people/perso5.jpg) center no-repeat;
+	background-size: 100%;
+}
+
+.cc-equip-padding {
+	padding:0 0 80px 0;
+}
+
+.cc-equip-pad {
+	padding:20px;
+	background-color:rgba(0,0,0,0.4);
+}
+
+.cc-contact {
+	padding:60px 0 20px 0;
+}
+
+.cc-mentions {
+	padding-top:5px;
+	font-size:10px;
+}
+
+.scrolloff {
+    pointer-events: none;
+}
+
+.cc-bg {
+	background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+	background-size: cover;
+}
+
+.cc-bg-securite-sociale {
+	background-image: url(img/ss-background.jpg);
+}
+
+.cc-bg-wash {
+	background-image: url("img/studio-capillaire/salon_wash.jpg");
+}  
+
+.cc-link {
+	color:#899639;
+}
+
+.cc-gallery{
+	padding:1px;
+}
+
+.cc-gallery-sc-1 {
+	background:url(img/studio-capillaire/1.jpg);
+}
+
+.cc-gallery-sc-2 {
+	background:url(img/studio-capillaire/2.jpg);
+}
+
+.cc-gallery-sc-3 {
+	background:url(img/studio-capillaire/3.jpg);
+}
+
+.cc-gallery-pe-1 {
+	background:url(img/perruques/1.jpg);
+}
+
+.cc-gallery-pe-2 {
+	background:url(img/perruques/2.jpg);
+}
+
+.cc-gallery-pe-3 {
+	background:url(img/perruques/3.jpg);
+}
+
+.cc-gallery-pe-4 {
+	background:url(img/perruques/4.jpg);
+}
+
+.cc-gallery-pe-brand-1 {
+	background:url(img/perruques/brand1.jpg);
+}
+
+.cc-gallery-pe-brand-2 {
+	background:url(img/perruques/brand2.jpg);
+}
+
+.cc-gallery-pe-brand-3 {
+	background:url(img/perruques/brand3.jpg);
+}
+
+.cc-gallery-pe-brand-4 {
+	background:url(img/perruques/brand4.jpg);
+}
+
+.cc-gallery-pee-1 {
+	background:url(img/perruques/e1.jpg);
+}
+
+.cc-gallery-pee-2 {
+	background:url(img/perruques/e2.jpg);
+}
+
+.cc-gallery-pee-3 {
+	background:url(img/perruques/e3.jpg);
+}
+
+.cc-gallery-eye-1 {
+	background:url(img/eye/1.jpg);
+}
+
+.cc-gallery-eye-2 {
+	background:url(img/eye/2.jpg);
+}
+
+.cc-gallery-tu-1 {
+	background:url(img/turban/1.jpg);
+}
+
+.cc-gallery-tu-2 {
+	background:url(img/turban/2.jpg);
+}
+
+.cc-gallery-tu-3 {
+	background:url(img/turban/3.jpg);
+}
+
+.cc-gallery-ch-1 {
+	background:url(img/clim-hair/1.jpg);
+}
+
+.cc-gallery-ch-2 {
+	background:url(img/clim-hair/2.jpg);
+}
+
+.cc-gallery-ch-3 {
+	background:url(img/clim-hair/3.jpg);
+}
+
+.cc-gallery-vol-1 {
+	background:url(img/vol/1.jpg);
+}
+
+.cc-gallery-vol-2 {
+	background:url(img/vol/2.jpg);
+}
+
+.cc-gallery-vol-3 {
+	background:url(img/vol/3.jpg);
+}
+
+.cc-gallery-comp-1 {
+	background:url(img/comp/1.jpg);
+}
+
+.cc-gallery-comp-2 {
+	background:url(img/comp/2.jpg);
+}
+
+.cc-gallery-comp-3 {
+	background:url(img/comp/3.jpg);
+}
+
+.cc-gallery-prot-1 {
+	background:url(img/prot/1.jpg);
+}
+
+.cc-gallery-prot-2 {
+	background:url(img/prot/2.jpg);
+}
+
+.cc-gallery-prot-3 {
+	background:url(img/prot/3.jpg);
+}
+
+.cc-gallery-epil-1 {
+	background:url(img/Jean_Marin.jpg);
+}
+
+.cc-gallery-ext-1 {
+	background:url(img/ext/1.jpg);
+}
+
+.cc-gallery-ext-2 {
+	background:url(img/ext/2.jpg);
+}
+
+.cc-gallery-ext-3 {
+	background:url(img/ext/3.jpg);
+}
+
+.cc-gallery-ext-4 {
+	background:url(img/ext/4.jpg);
+}
+
+.cc-gallery-ext-5 {
+	background:url(img/ext/5.jpg);
+}
+
+.cc-gallery-ext-6 {
+	background:url(img/ext/6.jpg);
+}
+
+.cc-gallery-ext-7 {
+	background:url(img/ext/7.jpg);
+}
+
+.cc-gallery-ext-8 {
+	background:url(img/ext/8.jpg);
+}
+
+.cc-gallery-1 {
+	background:url(img/gallery/1.jpg);
+}
+
+.cc-gallery-2 {
+	background:url(img/gallery/2.jpg);
+}
+
+.cc-gallery-3 {
+	background:url(img/gallery/3.jpg);
+}
+
+.cc-gallery-4 {
+	background:url(img/gallery/4.jpg);
+}
+
+.cc-gallery-5 {
+	background:url(img/gallery/5.jpg);
+}
+
+.cc-gallery-6 {
+	background:url(img/gallery/6.jpg);
+}
+
+.cc-partenaire1{
+	background:url(img/links/mary-cohr.gif);
+	height:200px;
+	width:200px;
+	background-size:contain;
+	float:left;
+	margin-right:10px;
+}
+
+.form-control:focus {
+    border-color: #b39a7f;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px #b39a7f;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px #b39a7f;
+}
+
+.cc-studio-white > .container {
+	background-color: rgba(255,255,255, 0.8);
+	padding:10px;
+}
+
+.cc-studio-brown > .container{
+	background-color: rgba(181, 155, 128, 0.72);
+	padding:10px;
+}
+
+.cc-brown {
+	background-color:#b39a7f;
+}
+
+.cc-brown h3, .cc-brown h4, .cc-brown a{
+	color:#FFF;
+}
+
+.cc-brown h5{
+	color:#FFF;
+	font-weight:bold;
+	margin-top:30px;
+}
+
+.cc-studio-black {
+	color: #FFF;
+	
+}
+
+.cc-studio-black > .container {
+    background-color: rgba(0,0,0,0.6);
+	padding:10px;
+}
+
+.cc-studio-back3 b, .cc-studio-back3 h1 {
+	color:#fff;
+}
+
+.cc-studio-back4{
+	background-color:#b39a7f;
+
+}
+
+.cc-studio-back4 h4, .cc-studio-back4 a{
+	color:#fff;
+}
+
+
+/* Specific size */ 
+/* Custom, iPhone Retina */ 
+@media only screen and (min-width : 320px) {
+      .body-padding {
+		padding-top:280px;
+	}
+		
+	.cc-nav {
+		bottom:0px;
+		right:10px;
+		margin-right: -5px !important;
+	}
+	
+	#cc-backgroundDiv {
+		width: 100%;
+		height: 240px;
+		margin-top: 50px;
+		padding-top: 20px;
+	}
+	
+	#cc-backgroundContainer {
+		width:100%;
+		margin: auto;
+	}
+
+	.cc-backgroundNav {
+		padding-left:0px;
+		padding-right:0px;
+	}
+	
+	#cc-logoContainer {
+		width: 300px;
+		left: 50%;
+		position: relative;
+		margin-left: -150px;
+		margin-top:10px;
+	}
+	
+	#cc-logoDiv {
+		background: url("img/logo.png") no-repeat center; 
+		background-size: 300px 116px;
+		box-shadow: 0 0 10px #888;
+		width: 300px;
+		height: 116px;
+	}
+
+	.cc-centerNav {
+		width: 100%;
+		margin: auto;
+		float: initial;
+		border-bottom: 1px solid #B39A7F;
+	}
+	
+	.cc-nomargin{
+		margin:0px;
+	} 
+	
+	.navbar-fixed-top{
+		border-width: 0px;
+	}
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+	.body-padding {
+		padding-top:300px;
+	}
+	
+	.cc-nav {
+		position:absolute;
+		bottom:0px;
+		right:10px;
+		margin-right: -5px !important;
+	}
+
+	#cc-backgroundDiv {
+		width: 100%;
+		height: 250px;
+		padding-top:50px;
+
+	}
+	
+	.cc-logo-background {
+		background: url(img/header/main_background.jpg) no-repeat top;
+		margin-bottom: 0px;
+		border-bottom: 1px solid #B39A7F;
+		background-size: cover;
+		height: 100%;
+		background-attachment: fixed;
+	}
+	
+	#cc-backgroundContainer {
+		width:400px;
+		margin: auto;
+	}
+
+	
+	#cc-logoContainer {
+		width: 350px;
+		left: 50%;
+		position: relative;
+		margin-left: -175px;
+		margin-top:2px;
+		margin-bottom:10px;
+	}
+	
+	#cc-logoDiv {
+		background: url("img/logo.png") no-repeat center; 
+		background-size: 350px 135px;
+		box-shadow: 0 0 10px #000;
+		width: 350px;
+		height: 135px;
+
+	}
+	
+	.cc-centerNav {
+		width: 680px;
+		margin: auto;
+		float: initial;
+		border-bottom:0px;
+	}
+	.cc-select-top {
+		height: 360px;
+		
+	}
+	.cc-select-extension {
+		height: 680px;
+		
+	}
+
+	.cc-securite-sociale{
+		padding:30px;
+	}
+	
+	.cc-container-esthetique {
+		padding:30px;
+	}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+	.cc-select-extension {
+		height: 560px;
+		
+	}
+	
+	
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+	.cc-select-extension {
+		height: 520px;
+		
+	}
+	
+	#cc-backgroundDiv {
+		width: 100%;
+		height: 260px;
+		padding-top:20px;
+
+	}
+	
+	#cc-logoContainer {
+		width: 400px;
+		left: 50%;
+		position: relative;
+		margin-left: -200px;
+		margin-top:10px;
+		margin-bottom:10px;
+	}
+	
+	#cc-logoDiv {
+		background: url("img/logo.png") no-repeat center; 
+		background-size: 400px 155px;
+		box-shadow: 0 0 10px #000;
+		width: 400px;
+		height: 155px;
+
+	}
+}
+
+@media only screen and (min-width : 1600px) {
+	.cc-select-extension {
+		height: 520px;
+		
+	}
+	
+	#cc-backgroundDiv {
+		width: 100%;
+		height: 350px;
+		padding-top:50px;
+
+	}
+	
+	#cc-logoContainer {
+		width: 450px;
+		left: 50%;
+		position: relative;
+		margin-left: -225px;
+		margin-top:10px;
+		margin-bottom:10px;
+	}
+	
+	#cc-logoDiv {
+		background: url("img/logo.png") no-repeat center; 
+		background-size: 450px 209px;
+		box-shadow: 0 0 10px #000;
+		width: 450px;
+		height: 209px;
+
+	}
+}

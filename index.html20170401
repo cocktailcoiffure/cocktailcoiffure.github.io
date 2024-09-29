@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 	<head>
-		<title>Cocktail Coiffure et Esthétique</title>
+		<title>Cocktail coiffure</title>
 		<meta charset="utf-8"></meta>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"></meta>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"></meta>
@@ -58,8 +58,8 @@
 						<li class="cc-nav-hidden">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">COIFFURE</a>
 							<ul class="dropdown-menu">
-								<li><a class="page-scroll" href="#coiffure">Accueil</a></li>
-								<li><a class="page-scroll" href="#coiffure-prestations">Prestations</a></li>
+								<li><a class="page-scroll" href="#coiffure">Acceuil</a></li>
+								<li><a class="page-scroll" href="#coiffure-prestations">Prestation</a></li>
 								<li><a class="page-scroll" href="#coiffure-specialites">Spécialités</a></li>
 								<!--<li><a class="page-scroll" href="#coiffure-produits">Produits</a></li>
 								<li><a class="page-scroll" href="#coiffure-materiels">Matériels</a></li>-->
@@ -71,7 +71,7 @@
 						<li class="cc-nav-hidden">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">STUDIO CAPILAIRE</a>
 							<ul class="dropdown-menu">
-								<li><a class="page-scroll" href="#studio-capillaire">Accueil</a></li>
+								<li><a class="page-scroll" href="#studio-capillaire">Acceuil</a></li>
 								<li><a class="page-scroll" href="#perruques">Perruques</a></li>
 								<li><a class="page-scroll" href="#soins-accessoires">Accessoires &amp; Soins</a></li>
 								<li><a class="page-scroll" href="#volumateurs">Volumateurs</a></li>
@@ -86,8 +86,8 @@
 						<li class="cc-nav-hidden dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ESTHÉTIQUE</a>
 							<ul class="dropdown-menu">
-								<li><a class="page-scroll" href="#esthetique">Accueil</a></li>
-								<li><a class="page-scroll" href="#esthetique-prestations">Prestations</a></li>
+								<li><a class="page-scroll" href="#esthetique">Acceuil</a></li>
+								<li><a class="page-scroll" href="#esthetique-prestations">Prestation</a></li>
 								<li><a class="page-scroll" href="#esthetique-onglerie">Onglerie</a></li>
 								<li><a class="page-scroll" href="#esthetique-specialites">Spécialités</a></li>
 								<li><a class="page-scroll" href="#esthetique-produits">Produits</a></li>
@@ -185,7 +185,7 @@
 				<div class="row cc-center cc-header-padding-30">
 					<div class="col-md-12">
 						<h1>coiffure</h1>
-						<i>Cocktail Coiffure c’est une Equipe Passionnée, Dynamique qui se perfectionne régulièrement pour réaliser des services de qualités et vous apporter les meilleurs conseils. </i>
+						<i>Cocktail Coiffure c’est une Equipe Passionné, Dynamique qui se perfectionne régulièrement pour réaliser des services de qualités et vous apporter les meilleurs conseils. </i>
 					</div>
 				</div>
 				<div class="row cc-header-padding-30">
@@ -206,12 +206,12 @@
 				<div class="row">
 					<div class="col-xs-12">
 						<ul class="cc-bon-plan">
-							<li><b>Mardi:</b> -20% sur coloration, mèches, permanente.</li>
-							<li><b>Jeudi:</b> Femme Shampooing Coupe Coiffage à 28€.</li>
-							<li><b>Samedi:</b> Homme Shampooing Coupe Coiffage à 16€.</li>
-							<li><b>Etudiant:</b> -20ans Profitez de -20% sur toutes nos prestations et produits tous les jours hors Tarifs Journée promotionnelle.</li>
-							<li><b>Carte parrainage:</b> Présentez nous un(e) client(e) qui ne nous connait pas encore, afin que lui et vous puissiez bénéficier de -20%, valable 1 fois sur le montant total de votre facture.</li>
-							<li><b>Bon cadeau:</b> Pensez aux bons cadeaux pour les fêtes de Noël, anniversaires, etc...</li>
+							<li><b>mardi:</b>-20% sur Coloration, Mèches, Permanente.</li>
+							<li><b>jeudi:</b>Femme Schampooing Coupe Coiffage à 28€.</li>
+							<li><b>samedi:</b>Homme Schampooing Coupe Coiffage à 16€.</li>
+							<li><b>étudiant:</b>-20ans Profitez de -20% sur toutes nos prestations et produits tous les jours hors Tarifs Journée promotionnel.</li>
+							<li><b>carte parrainage:</b>Présenter nous un client(e) qui ne nous connait pas encore afin que lui et vous puissiez bénéficiez de -20%, valable 1 fois sur le montant total de votre facture.</li>
+							<li><b>bon cadeau:</b>Pensez aux Bon Cadeaux pour les Fêtes de Noël, Anniversaire, etc...</li>
 						</ul>
 						Pour Profiter des Bons Plans <a class="page-scroll" href="#about-contact">prenez rendez-vous !</a>
 					</div>
@@ -234,16 +234,16 @@
 					<div class="col-md-4">
 						<h4>Shampooing</h4>
 						<p>
-							Adapté selon l’état de votre cuir chevelu (gras, pellicules, transpirant ou sec) et le type de votre cheveu (sec, coloré ou méché), il vous sera fait deux shampooings successifs pour traiter chaque zone, dont un relaxant.
+							Adaptée selon l’état de votre cuir chevelu (gras, pellicules, transpirant ou sec) et le type de votre cheveu (sec, coloré ou méchés, il vous sera fait deux shampooings successifs pour traiter chaque zone, dont un relaxant.
 						</p>
 						<p>
 							Plusieurs Gammes vous serons proposées ainsi que tous les conseils pour l’entretien à domicile.
 						</p>
 					</div>
 					<div class="col-md-4">
-						<h4>Coupe de cheveux</h4>
+						<h4>Coupe de cheveux</h4>
 						<p>
-							Toujours à l'affut des dernières TENDANCES l'équipe Cocktail Coiffure vous apportera les meilleurs conseils adaptés selon vos envies, la morphologie de votre visage et le potentiel de vos cheveux, afin de mettre en valeur votre personnalité.
+							Toujours à l'affut des dernières TENDANCE l'équipe Cocktail Coiffure vous apportera les meilleurs conseils adaptée selon vos envie, la morphologie de votre visage et le potentiel de vos cheveux, afin de mettre en valeur votre personnalité.
 						</p>
 						<p>
 							Nos BOOKS COIFFURE vous feront découvrir les dernière lignes femme, homme et enfant qui vous correspondent, pour que vous puissiez mieux vous identifiez, afin de choisir ensemble votre nouveau LOOK.
@@ -252,10 +252,10 @@
 					<div class="col-md-4">
 						<h4>Séchage</h4>
 						<p>
-							Touching Naturel ou Brushing Lisse, bouclé, chic ou décontracte, nous maitrisons toutes les techniques de coiffage actuelles.
+							Touching Naturel ou Brushing Lisse, bouclé, chic ou décontracte, nous maitrisons toutes les techniques de coiffage actuel.
 						</p>
 						<p>
-							Nous vous confierons tous nos SECRETS pour que vous puissiez mieux vous recoiffer à domicile en vous présentant nos Gammes de produits Coiffants.
+							Nous vous confirons tous nos SECRETS pour que vous puissiez mieux vous Recoiffer à domicile en vous présentant nos Gammes de produits Coiffants.
 						</p>
 					</div>
 				</div>
@@ -263,11 +263,11 @@
 					<div class="col-md-4">
 						<h4>Coloration</h4>
 						<p>
-							Unique à votre image, gamme de coloration douce qui grâce au multiple Cocktail de mélange de couleurs qu’elle nous offre, nous pourrons réaliser votre nuance personnalisée. Brillance diamant, couleur vive éclatante, couvrance cheveux blancs parfaite et tenue longue durée. Nous vous proposons les nouvelles techniques tendances.<br/>
+							Unique à votre image, gamme de coloration douce qui grâce au multiple Cocktail de mélange de couleurs qu’elle nous offre, nous pourrons réaliser votre nuance personnalisée. Brillance diamant, Couleur vive éclatante, Couvrance cheveux blancs parfaite et Tenue longue durée. Nous vous proposons les nouvelles techniques Tendance.<br/>
 						</p>
-						<!--Le Concept Gouache est une technique d’application innovante inspirée des peintres.<br/>
+						<!--Le Concept Gouache est une Technique d’application innovante inspirée des peintres.<br/>
 						<img/>
-						Service inédit qui permet de réaliser grâce au nuancier de Coloration une harmonie et une association de couleurs personnalisées et aux caractères aussi bien subtile que théâtrale. Nous laisserons libre cours à notre talent de coloriste pour un résultat artistique unique. Votre chevelure deviendra notre toile de maître.<br/>
+						Service inédit qui permet de réaliser grâce au nuancier de Coloration une Harmonie et une Association de couleurs personnalisées et aux caractères aussi bien subtile que théâtrale. Nous laisserons libre cours à notre talent de coloriste pour un résultat artistique unique. Votre chevelure deviendra notre toile de maître.<br/>
 						<img/>-->
 					</div>
 					<div class="col-md-4">
@@ -279,7 +279,7 @@
 					<div class="col-md-4">
 						<h4>Permanente</h4>
 						<p>
-							La permanente fait son come-back à grands coups d'ondulations et de cascades de boucles, finies les boucles serrées, place à la légèreté de l'ondulé et du wavy. La permanente moderne, qui s'apparente à la mini vague, est toute douce.
+							La permanente fait son come-back à grands coups d'ondulations et de cascades de boucles finies les boucles serrés, place à la légèreté de l'ondulé et du wavy. La permanente moderne, qui s'apparente à la mini vague, est toute douce.
 						</p>
 					</div>
 				</div>
@@ -287,7 +287,7 @@
 					<div class="col-md-12">
 						<h4>Partenaire Officiel de Miss France</h4>
 						<p>
-							Zéro : Service coloration sans ammoniaque, idéale pour toutes les femmes, c’est une coloration adaptée à tous les types de peau, même les plus sensibles (après traitement chimiothérapie) respecte le cuir chevelu et votre cheveux.
+							Zéro : Service coloration sans ammoniaque, idéale pour toutes les femmes, c’est une coloration adaptée à tous les types de peau, même les plus sensibles (après traitement chimiothérapie) respecte le cuir chevelu et votre cheveux.
 						</p>
 					</div>
 				</div>-->
@@ -315,7 +315,7 @@
 							Formulé pour être applicable sur tous types de frisures (cheveux caucasiens ou maghrébins).
 						</p>
 						<p>
-							Spécialement composé de 2 crèmes à mélanger pour s'adapter à tous les types de cheveux, qu'ils soient naturels, naturels résistants, colorés et même très sensibilisés.
+							Spécialement composé de 2 Crèmes à mélanger pour s'adapter à tous les types de cheveux qu'ils soient naturels, naturels résistants, colorés et même très sensibilisés.
 						</p>
 						<!--<p>
 							La texture EasyLiss maintient les cheveux raides pendant le temps de pause pour faciliter le lissage et laisser le coiffeur libre pendant les temps d'action.
@@ -324,7 +324,7 @@
 					<div class="col-md-6">
 						<h4>Lissage Brésilien</h4>
 						<p>
-							Faciles à coiffer ? Soignés et réparés ? Doux et brillants ? Nous avons le produit qu’il vous faut, la nouvelle formule de lissage brésilien à la Kératine. <!--Gkhair The Best! Leader de la science du cheveu -->Grâce à cette technologie révolutionnaire, le lissage brésilien revient sur le devant de la scène avec une Kératine encore plus performante ! <!--Découvrez la nouvelle gamme GKHair à base de Kératine : « The Best » qui révolutionne aujourd’hui le monde de la haute coiffure !! -->Plus qu’une technique, c’est un soin profond pour le cheveu lors du lissage.
+							Faciles à coiffer ? Soignés et réparés ? Doux et Brillants ? Nous avons le produit qu’il vous faut, la nouvelle formule de lissage brésilien à la Kératine. <!--Gkhair The Best! Leader de la science du cheveu -->Grâce à cette technologie révolutionnaire, le lissage brésilien revient sur le devant de la scène avec une Kératine encore plus performante ! <!--Découvrez la nouvelle gamme GKHair à base de kératine : « The Best » qui révolutionne aujourd’hui le monde de la haute coiffure !! -->Plus qu’une technique, c’est un soin profond pour le cheveu lors du lissage.
 						</p>
 					</div>
 				</div>
@@ -332,13 +332,13 @@
 					<div class="col-md-6">
 						<h4>Bilan Capillaire</h4>
 						<p>
-							Vous êtes vous déjà demandé si vous étiez en bonne santé capillaire ? Chute de cheveux passagère, cuir chevelu gras, pellicules, démangeaisons.<br/> Pour celles et ceux qui veulent apprendre à mieux connaitre leur chevelure, nous vous proposons le sur mesure (Service Gratuit).
+							Vous êtes vous déjà demandé si vous étiez en bonne santé capillaire ? Chute de cheveux passagère, cuir chevelu gras, pellicules, démangeaisons.<br/> Pour celles et ceux qui veulent apprendre a mieux connaitre leur chevelure, nous vous proposons le Sur Mesure (Service Gratuit).
 						</p>
 					</div>
 					<div class="col-md-6">
 						<h4><i class="fa fa-check-square-o"></i> COMMENT CELA FONCTIONNE ?</h4>
 						<p>
-							Réalisable sur rendez-vous en cabine individuelle, nous effectuons ensemble un bilan capillaire à l’aide d’une caméra microscopique. Nous pourrons alors, vous dévoilez les bons produits d’entretiens et de coiffage afin d adapter les bonnes habitudes capillaire chez soi !
+							Réalisable sur rendez-vous en cabine individuelle, nous effectuons ensemble un bilan capillaire à l’aide d’une caméra microscopique. Nous pourrons alors, vous dévoilez les bons produits d’entretiens et de coiffage afin d adapter les bonnes habitudes capillaire chez soi !
 						</p>
 					</div>
 				</div>
@@ -346,16 +346,16 @@
 					<div class="col-md-6">
 						<h4>Chignon</h4>
 						<p>
-							Le jour de votre mariage arrive ! Tout doit être parfait pour le plus beau jour de votre vie. C'est pour cela que nous vous proposons tout notre savoir-faire, manque de longueur ou de volume nous vous proposons la location de postiches afin d'avoir une chevelure de rêve ou de parfaire votre chignon.
+							Le jour de votre mariage arrive ! Tout doit être parfait pour le plus beau jour de votre vie. C'est pour cela que nous vous proposons tout notre savoir faire, manque de longueurs ou de volume nous vous proposons la location de postiches afin d'avoir une chevelure de rêve ou de parfaire votre chignon.
 						</p>
 						<p>
 							Nous avons créé pour vous un Pass Spécial Mariage.
 						</p>
 					</div>
 					<div class="col-md-6">	
-						<h4><i class="fa fa-check-square-o"></i> COMMENT CELA FONCTIONNE ?</h4>
+						<h4><i class="fa fa-check-square-o"></i> COMMENT CELA FONCTIONNE ?</h4>
 						<p>
-							Le Pass Spécial Mariage c’est un mois de privilège, pour 2 personnes -20% sur vos prestations mais aussi -10% sur vos achats produits, valable en Coiffure, Esthétique et Onglerie aussi souvent que vous le souhaitez durant tout le mois qui précède votre date de mariage. (Voir condition en magasin pour  l'obtention du Pass Spécial Mariage).
+							Le Pass Spécial mariage c’est un mois de privilège, pour 2 personnes -20% sur vos prestations mais aussi -10% sur vos achats produits, valable en Coiffure, Esthétique et Onglerie aussi souvent que vous le souhaitez durant tout le mois qui précède votre date de Mariage. (Voir condition en magasin pour  l'obtention du Pass Spécial mariage).
 						</p>
 					</div>
 				</div>
@@ -395,13 +395,13 @@
 							Artist(e) est une ligne imaginée par EUGENE PERMA Professionnel constituée de 24 produits de coiffage pointus, très performants, offrant un réel plaisir d’utilisation.
 						</p>
 						<p>
-							Ces produits"stars" tels que le Lissit+ et le Pump Up Spray permettent aux coiffeurs d’inventer, de créer et de révéler chaque style.
+							Ses produits"stars" tels que le Lissit+ et le Pump Up Spray permettent aux coiffeurs d’inventer, de créer et de révéler chaque style.
 						</p>
 					</div>
 					<div class="col-md-4">
 						<h4>Eugène Perma Essentiel Men</h4>
 						<p>
-							ESSENTIEL MEN s’adresse aux hommes les plus exigeants souhaitant des produits qui leurs ressemblent pour prendre soin de leur chevelure et de leur peau lors du rasage.
+							ESSENTIEL MEN s’adresse aux hommes les plus exigeants souhaitant des produits qui leur ressemblent pour prendre soin de leur chevelure et de leur peau lors du rasage.
 						</p>
 					</div>
 				</div>
@@ -421,10 +421,10 @@
 							<i>PRODUITS SHAMPOOING SOIN COIFFAGE</i>
 						</p>
 						<p>
-							Juvexin est un anti-vieillissement mélange de protéines Kératine. Le développement le plus révolutionnaire dans les soins capillaires au cours des 50 dernières années. Cela a commencé avec la Kératine, puis a évolué vers Juvexin.
+							Juvexin est un anti-vieillissement mélange de protéines kératine. Le développement le plus révolutionnaire dans les soins capillaires au cours des 50 dernières années. Cela a commencé avec la kératine, puis a évolué vers Juvexin.
 						</p>
 						<p>
-							GKhair est la première et seule société à exploiter les avantages de la beauté de Juvexin, qui est livré à la chevelure dans son état naturel. Dérivé de la laine de mouton vierge à travers un processus respectueux de l'environnement, Juvexin se trouve dans GKhair produits dans le monde entier.
+							GKhair est la première et seule société à exploiter les avantages de la beauté de Juvexin, qui est livré à la chevelure dans son état naturel. Dérivé de la laine de mouton vierge à travers un processus respectueux de l'environnement, Juvexin se trouve dans GKhair produits dans le monde entier.
 						</p>
 					</div>
 					<div class="col-md-4">
@@ -433,7 +433,7 @@
 							<i>LE PREMIER SOIN-MASQUE REPIGMENTANT</i>
 						</p>
 						<p>
-							Effet 3 en 1 : Couleur ravivée, lumineuse et prolongée, douceur intense, brillance absolue, en 3 minutes seulement ! Revlon Professional Nutri Color Creme, leader de la BEAUTE INSTANTANÉE.
+							Effet 3 en 1 : Couleur ravivée, lumineuse et prolongée, douceur intense, brillance absolue, en 3 minutes seulement ! Revlon Professional Nutri Color Creme, leader de la BEAUTE INSTANTANÉE.
 						</p>
 					</div>
 				</div>
@@ -461,7 +461,7 @@
 					<div class="col-md-6">
 						<h4>TGR 3600 Sèche Cheveux</h4>
 						<p>
-							Tout petit, mais il souffle et sèche comme les plus grands ! Il est équipé d'un moteur DC puissant et durable, dispose de 2 vitesses, de 4 températures et d'une touche d'atténuation de la chaleur, pour une performance inégalée et un séchage ultra rapide. Doté d'une technologie de pointe, il est extrêmement maniable et léger.
+							Tout petit, mais il souffle et sèche comme les plus grands ! Il est équipé d'un moteur DC puissant et durable, dispose de 2 vitesses, de 4 températures et d'une touche d'atténuation de la chaleur, pour une performance inégalée et un séchage ultra rapide. Doté d'une technologie de pointe, il est extrêmement maniable et léger.
 						</p>
 					</div>
 				</div>
@@ -469,7 +469,7 @@
 					<div class="col-md-6">
 						<h4>Diva professional styling</h4>
 						<p>
-							Superbe lisseur de qualité avec Plaques en Titanium, température variable (110°C-230°C), affichage numérique et chauffage quasi-instantanée est livré avec un anti-dérapant, tapis de silicone résistant à la chaleur.
+							Superbe lisseur de qualité avec Plaques en Titanium, température variable (110°C-230°C), affichage numérique et chauffage quasi-instantanée est livré avec un anti-dérapant, tapis de silicone résistant à la chaleur.
 						</p>
 					</div>
 					<div class="col-md-6">
@@ -497,7 +497,7 @@
 					<div class="col-sm-12">
 						<p>
 							Chute de cheveux, calvitie, pelade partielle ou totale, manque de volume ou de longueur<br/><br/>
-							<b>Une solution existe pour vous!</b>
+							<b>Une solution existe pour vous!</b>
 						</p>
 					</div>
 				</div>
@@ -581,16 +581,16 @@
 							<li>Conseils et mode d’emploi pour l’entretien de votre perruque</li>
 						</ul>
 						<p>
-							A votre écoute, nous saurons vous conseiller et vous orienter vers le meilleur choix.
+							A votre écoute, notre saurons vous conseiller et vous orienter vers le meilleur choix.
 						</p>
 						<p>
-							Venez découvrir nos différents modèles et les tailles disponibles !
+							Venez découvrir nos différents modèles et les tailles disponibles !
 						</p>
 					</div>
 					<div class="col-sm-6">
 						<h4>PERRUQUES FEMMES ET HOMME SUR MESURE</h4>
 						<p>
-							Nous vous proposons une conception de perruques sur mesure. Cette technique nécessite une prise d&#39;empreinte de votre tête entière, la prothèse sera donc fabriquée sur mesure et conçue spécialement pour vous. Ce modèle dispose d&#39;un pourtour en polymère ce qui permet une fixation par « adhésion directe », c’est à dire que nous utilisons une résine dermatologique technique Dermofusion pour fixer la prothèse à votre cuir chevelu. L&#39;intérieur de la prothèse est en tulle sur lequel sont implantés les cheveux naturels un par un par doubles nœuds. Durée de vie entre 8 à 12 mois selon l'attention que vous lui apporterez lors du coiffage journalier et des lavages. L'entretien <b>Studio Capillaire</b> s'effectue toutes les 4 à 5 semaines pour déposer et reposer la perruque afin de la réajuster.
+							Nous vous proposons une conception de perruques sur-mesure. Cette technique nécessite une prise d&#39;empreinte de votre tête entière, la prothèse sera donc fabriquée sur-mesure et conçue spécialement pour vous. Ce modèle dispose d&#39;un pourtour en polymère ce qui permet une fixation par « adhésion directe », c’est à dire que nous utilisons une résine dermatologique technique Dermofusion pour fixer la prothèse à votre cuir chevelu. L&#39;intérieur de la prothèse est en tulle sur lequel sont implantés les cheveux naturels un par un par doubles nœuds. Durée de vie entre 8 à 12 mois selon l'attention que vous lui apporterez lors du coiffage journalier et des lavages. L'entretien <b>Studio Capillaire</b> s'effectue toutes les 4 à 5 semaines pour déposer et reposer la perruque afin de la réajuster.
 						</p>
 						<p>
 							Quel que soit votre souhait, vous trouverez chez nous la perruque adaptée à votre personnalité et à votre budget.
@@ -629,19 +629,19 @@
 						<p>
 							Nous vous accompagnerons dans vos démarches administratives auprès de la Sécurité Sociale avec des conseils pratiques et grâce à la télétransmission des feuilles de soins.
 						</p>
-						<h4><i class="fa fa-check-square-o"></i> VOUS AVEZ DIT TIERS PAYANT ?</h4>
+						<h4><i class="fa fa-check-square-o"></i> VOUS AVEZ DIT TIERS PAYANT ?</h4>
 						<p>
-							Vous n’aurez besoin de faire aucune avance de frais ! Vous bénéficierez ainsi du <b>tiers payant</b> pour la partie Sécurité Sociale.
+							Vous n’aurez besoin de faire aucune avance de frais ! Vous bénéficierez ainsi du <b>tiers payant</b> pour la partie Sécurité Sociale.
 						</p>
 						<p>
-							La prise en charge des frais de remboursement par votre mutuelle dépendra des options souscrites dans votre contrat. N’hésitez pas à vous renseigner au plus tôt auprès de votre mutuelle afin de connaître le montant de l’éventuel remboursement.
+							La prise en charge des frais de remboursement par votre mutuelle dépendra des options souscrits dans votre contrat. N’hésitez pas à vous renseigner au plus tôt auprès de votre mutuelle afin de connaître le montant de l’éventuel remboursement.
 						</p>
 						<p>
 							Pour plus de renseignements consultez le site de l'<a href="http://www.e-cancer.fr/Patients-et-proches/Vos-demarches/Demarches-sociales/Prise-en-charge-financiere/Protheses-et-appareillages" target="blank">INSTITUT NATIONAL DU CANCER</a>
 						</p>
 					</div>
 					<div class="col-md-6">
-						<h4><i class="fa fa-check-square-o"></i> EN PRATIQUE …</h4>
+						<h4><i class="fa fa-check-square-o"></i> EN PRATIQUE …</h4>
 						<p>
 							<i class="fa fa-plus-square"></i> Vous nous présentez <b>une prescription médicale</b> pour votre <a href="#volumateur" class="page-scroll">volumateur</a>, <a href="#perruques" class="page-scroll">perruque</a> ou <a href="#studio-capillaire-2" class="page-scroll">complément capillaire</a>.
 						</p>
@@ -649,10 +649,10 @@
 							<i class="fa fa-plus-square"></i> Nous élaborons ensemble <b>un devis personnalisé.</b>
 						</p>
 						<p>
-							<i class="fa fa-plus-square"></i> Lors du paiement vous bénéficiez du tiers payant : nous déduisons le montant du tiers payant de votre règlement total.
+							<i class="fa fa-plus-square"></i> Lors du paiement vous bénéficiez du tiers payant : nous déduisons le montant du tiers payant de votre règlement total.
 						</p>
 						<p>
-							<b>IMPORTANT</b> : N’oubliez pas de vous munir de votre <b>carte vitale</b> ou d’une attestation d’assurance maladie, si vous ne disposez pas de votre carte vitale et de votre <b>carte mutuelle.</b>
+							<b>IMPORTANT</b> : N’oubliez pas de vous munir de votre <b>carte vitale</b> ou d’une attestation d’assurance maladie, si vous ne disposez pas de votre carte vitale et de votre <b>carte mutuelle.</b>
 						</p>
 						<p>
 							<i class="fa fa-plus-square"></i> Nous vous fournirons <b>une feuille de soin</b> qui vous permettra éventuellement d’obtenir un remboursement auprès de votre mutuelle.
@@ -693,9 +693,9 @@
 						<img class="cc_img_50" src="css/imgs/cc-studio/clim-hair/2.jpg"/>
 						<img class="cc_img_25" src="css/imgs/cc-studio/clim-hair/3.jpg"/>
 						<span class="cc-eye-span">
-							Clim’Hair est un brevet et produit made in France, sa créatrice, Françoise Goubron ancienne malade du cancer, a notamment reçu la médaille d’argent du salon des innovations à genève en 2014.<br/>
+							Clim’Hair est un brevet et produit made in France sa créatrice, Françoise Goubron ancienne malade du cancer, a notamment reçu la médaille d’argent du salon des innovations à genève en 2014.<br/>
 							<br/>
-							Avec Clim’Hair, fini l’inconfort de la perruque : transpiration, démangeaisons, irritations…..et plus jamais chaud ou froid<br/>
+							Avec Clim’Hair fini l’inconfort de la perruque : transpiration, démangeaisons, irritations…..et plus jamais chaud ou froid<br/>
 							<br/>
 							Contre le chaud Clim’hair se mouille en apportant fraîcheur sous la perruque et portée à sec, il vous procurera isolation et chaleur en hiver. Il n’est pas un dispositif médical, ni un bonnet qui enserre la tête, il est 100% coton issu de l’agriculture biologique, sans colorant, hypoallergénique et vous assure une sensation de grand confort.
 						</span>
@@ -734,7 +734,7 @@
 				<div class="row cc-header-padding-60">
 					<div class="col-md-12">
 						<p class="cc-center">Studio Capillaire vous propose des solutions pour vos problèmes de chute de cheveux partielle.<br/>
-						Vous souhaitez que vos cheveux gagnent en densité et en épaisseur ?</p>
+						Vous souhaitez que vos cheveux gagnent en densité et en épaisseur ?</p>
 					</div>
 				</div>
 				
@@ -742,7 +742,7 @@
 					<div class="col-sm-6">
 						<p>Nos volumateurs sont fabriqués sur mesure et sont constitués à 100% de cheveux naturels tout en respectant votre texture, densité, couleur et coupe de cheveux. Ainsi, nous vous garantissons un résultat avec un rendu indétectable et naturel.</p>
 						<br/>
-						<p>En fonction de votre besoin, vous pouvez opter soit pour des volumateurs capillaire qui se fixent de manière <b>permanente</b> (adhésion par micro cylindres) ou de manière <b>amovible</b> (clips).<br/>
+						<p>En fonction de votre besoin vous pouvez opter soit pour des volumateurs capillaire qui se fixent de manière <b>permanente</b> (adhésion par micro cylindres) ou de manière <b>amovible</b> (clips).<br/>
 						Dans les deux cas nous prendrons une empreinte puisque le volumateur sera fabriqué sur mesure selon la forme de votre crane et de votre problème.
 						</p>
 					</div>
@@ -768,7 +768,7 @@
 					</div>
 					<div class="col-sm-6">
 						<h4><i class="fa fa-check-square-o"></i> LE CONSEIL PRATIQUE</h4>
-						<p>Pour un lavage optimal appliquer un shampooing très nourrissant accompagné de son masque, que vous pourrez laisser poser quelques minutes, puis un sérum de finition sur cheveux secs. Nous vous conseillons de laver vos cheveux dans le sens de la fixation, veuillez répéter cette opération 2 à 3 fois par semaine afin de préserver l’éclat de votre volumateur. Pour le démêlage tenez la base de votre volumateur pour ne pas fragiliser les fixations et utilisez une brosse à poils doux, séchez avec un sèche-cheveux à température moyenne ou séchage air libre. Vous pouvez utiliser un fer à lisser pour les finitions de coiffage ne restez pas trop longtemps sur les mêmes mèches de cheveux afin de ne pas trop les sensibiliser.</p>
+						<p>Pour un lavage optimal appliquer un shampooing très nourrissant accompagné de son masque que vous pourrez laisser poser quelques minutes, puis un sérum de finition sur cheveux secs. Nous vous conseillons de laver vos cheveux dans le sens de la fixation, veuillez répéter cette opération 2 à 3 fois par semaine afin de préserver l’éclat de votre volumateur. Pour le démêlage tenez la base de votre volumateur pour ne pas fragiliser les fixations et utilisez une brosse à poils doux, séchez avec un sèche-cheveux à température moyenne ou séchage air libre. Vous pouvez utiliser un fer à lisser pour les finitions de coiffage ne restez pas trop longtemps sur les mêmes mèches de cheveux afin de ne pas trop les sensibiliser.</p>
 					</div>
 				</div>
 				<div class="row cc-header-padding-60">
@@ -801,7 +801,7 @@
 				<div class="row cc-header-padding-60">
 					<div class="col-md-12">
 						<p class="cc-center">
-							La <b>pelade</b> provoque une <b>perte de pilosité par plaques</b>, le plus souvent au <b>cuir chevelu</b>. La peau du crâne conserve son apparence normale, mais est simplement dépourvue de cheveux par endroits. On la nomme aussi <b>alopécie en plaques</b>.
+							La <b>pelade</b> provoque une <b>perte de pilosité par plaques</b>, le plus souvent au <b>cuir chevelu</b>. La peau du crâne conserve son apparence normale, mais est simplement dépourvue de cheveux par endroits. On la nomme aussi <b>alopécie en plaques</b>.
 						</p>
 					</div>
 				</div>
@@ -814,7 +814,7 @@
 							Nos compléments capillaires sont fabriqués sur mesure en cheveux 100% naturels tout en respectant votre texture, densité, couleur et coupe de cheveux. Ainsi, nous vous garantissons un résultat avec un rendu indétectable et naturel.
 						</p>
 						<p>
-							En fonction de votre besoin vous pouvez opter soit pour des compléments capillaires qui se fixent de manière <b>permanente</b> (fixation par micro cylindres ou DERMOFUSION) ou de manière <b>amovible</b> (clips). Dans les deux cas nous prendrons une empreinte puisque le complément capillaire sera fabriqué sur mesure.
+							En fonction de votre besoin vous pouvez opter soit pour des compléments capillaires qui se fixent de manière <b>permanente</b> (fixation par micro cylindres ou DERMOFUSION) ou de manière <b>amovible</b> (clips). Dans les deux cas nous prendrons une empreinte puisque le complément capillaire sera fabriqué sur mesure.
 						</p>
 					</div>
 					<div class="col-xs-2 col-sm-offset-1 col-sm-1 cc-gallery cc-center">
@@ -838,7 +838,7 @@
 							<b>Fixation Complément capillaire permanente cylindre</b>
 						</p>
 						<p>
-							La pose se fait à froid à l’aide de cylindre en métal. Durée de vie entre 8 à 12 mois selon l'attention que vous lui apporterez journalièrement lors du coiffage et du lavage. Entretien <b>Studio Capillaire</b> toutes les 6 à 8 semaines selon la repousse de vos cheveux, pour déposer et reposer le volumateur afin de le réajuster.
+							La pose se fait à froid à l’aide de cylindre en métal. Durée de vie entre 8 à 12 mois selon l attention que vous lui apporterez journalièrement lors du coiffage et lavages. Entretien <b>Studio Capillaire</b> toutes les 6 à 8 semaines selon la repousse de vos cheveux, pour déposer et reposer le volumateur afin de le réajuster.
 						</p>
 					</div>
 					<div class="col-sm-4">
@@ -846,7 +846,7 @@
 							<b>Fixation Complément capillaire permanente Dermo Fusion</b>
 						</p>
 						<p>
-							La pose se fait à froid à l’aide d’une résine appliquée sur le cuir chevelu, elle a été testée dermatologiquement, (rare intolérance cutanée observée).Pour écarter tout risque d’une éventuelle allergie, une application test sera faite 48h avant la première pose. Durée de vie entre 4 à 6 mois selon l’attention que vous lui apporterez journalièrement lors du coiffage et des lavages. Entretien <b>Studio Capillaire</b> toutes les 3 à 5 semaine selon votre cuir chevelu, pour déposer et reposer le complément capillaire afin de le réajuster
+							La pose se fait à froid à l’aide d’une résine appliquée sur le cuir chevelu, elle a été testée dermatologiquement, (rare intolérance cutanée observée).Pour écarter tout risque d’une éventuelle allergie, une application test sera faite 48h avant la 1 ière pose. Durée de vie entre 4 à 6 mois selon l’attention que vous lui apporterez journalièrement lors du coiffage et des lavages. Entretien <b>Studio Capillaire</b> toutes les 3 à 5 semaine selon votre cuir chevelu, pour déposer et reposer le complément capillaire afin de le réajuster
 						</p>
 					</div>
 					<div class="col-sm-4">
@@ -854,20 +854,20 @@
 							<b>Fixation Complément capillaire à clips</b>
 						</p>
 						<p>	
-							La pose se fait à froid à l’aide de petites pinces amovibles en métal. Durée de vie entre 8 à 12 mois selon l’attention que vous lui apporterez lors du coiffage et des lavages, entretien journalier pour déposer et reposer le volumateur afin de le réajuster.
+							La pose se fait à froid à l’aide de petites pinces amovible en métal. Durée de vie entre 8 à 12 mois selon l’attention que vous lui apporterez lors du coiffage et des lavages, entretien journalier pour déposer et reposer le volumateur afin de le réajuster.
 						</p>
 					</div>
 				</div>
 				<div class="row cc-header-padding-60">	
 					<div class="col-sm-12">
 						<h4><i class="fa fa-check-square-o"></i> LE CONSEIL PRATIQUE</h4>
-						<p>Pour un lavage optimal, appliquez un shampooing très nourrissant accompagné de son masque que vous pourrez laisser poser quelques minutes, puis un sérum de finition sur cheveux secs. Nous vous conseillons de laver vos cheveux dans le sens de la fixation, veuillez répéter cette opération 2 à 3 fois par semaine afin de préserver l’éclat de votre complément capillaire. Pour le démêlage tenez la base de votre complément capillaire pour ne pas fragiliser les fixations et utilisez une brosse à poils doux, séchez avec un sèche-cheveux à température moyenne ou séchage à l’air libre. Vous pouvez utiliser un fer à lisser pour les finitions de coiffage, ne restez pas trop longtemps sur les mêmes mèches de cheveux afin de ne pas trop les sensibiliser.</p>
+						<p>Pour un lavage optimal appliquez un shampooing très nourrissant accompagné de son masque que vous pourrez laisser poser quelques minutes, puis un sérum de finition sur cheveux secs. Nous vous conseillons de laver vos cheveux dans le sens de la fixation, veuillez répéter cette opération 2 à 3 fois par semaine afin de préserver l’éclat de votre complément capillaire. Pour le démêlage tenez la base de votre complément capillaire pour ne pas fragiliser les fixations et utilisez une brosse à poils doux, séchez avec un sèche-cheveux à température moyenne ou séchage à l’air libre. Vous pouvez utiliser un fer à lisser pour les finitions de coiffage, ne restez pas trop longtemps sur les mêmes mèches de cheveux afin de ne pas trop les sensibiliser.</p>
 					</div>
 				</div>
 				<div class="row cc-header-padding-60">	
 					<div class="col-sm-12">
 						<h4><i class="fa fa-check-square-o"></i> BON À SAVOIR</h4>
-						<p>Vous pourrez effectuer toutes vos activités quotidiennes et sportives sans vous soucier de votre complément capillaire. Mieux encore, votre complément capillaire aura un rendu totalement naturel même à la piscine avec des produits adéquats.</p>
+						<p>Vous pourrez effectuer toutes vos activités quotidiennes et sportives sans vous soucier de votre complément capillaire. Mieux encore, votre complément capillaire aura un rendu totalement naturel même à la piscine avec des produits adéquat.</p>
 					</div>
 				</div>
 			</div>
@@ -896,10 +896,10 @@
 							Les signes avant-coureurs sont une perte de cheveux abondante, avec un dégagement progressif du front, du dessus des tempes ou du sommet du crâne.
 						</p>
 						<p>
-							Vous souhaitez retrouver vos cheveux, affirmez votre style et masquez votre calvitie ?
+							Vous souhaitez retrouvez vos cheveux, Affirmez votre style et masquez votre calvitie ?
 						</p>
 						<p>
-							Nos prothèses capillaires sont fabriquées sur mesure en cheveux 100% naturels tout en respectant vos désirs Texture, densité, couleur, ainsi vous adopterez votre nouveau style avec vos nouveaux cheveux. Nous vous garantissons un résultat avec un rendu indétectable et naturel. En fonction de votre besoin vous pouvez opter soit pour des prothèses capillaires qui se fixent de manière permanente (fixation par micro cylindres ou Dermo Fusion) ou de manière amovible (clips). Dans les deux cas nous prendrons une empreinte puisque la prothèse capillaire sera fabriquée sur mesure selon la forme de votre crane et de votre Calvitie.
+							Nos prothèses capillaires sont fabriquées sur mesure en cheveux 100% naturels tout en respectant vos désirs Texture, densité, couleur, ainsi vous adopterez votre nouveau style avec vos nouveaux cheveux. Nous vous garantissons un résultat avec un rendu indétectable et naturel. En fonction de votre besoin vous pouvez opter soit pour des Prothèse capillaire qui se fixent de manière permanente (fixation par micro cylindres ou Dermo Fusion) ou de manière amovible (clips). Dans les deux cas nous prendrons une empreinte puisque la Prothèse Capillaire sera fabriqué sur mesure selon la forme de votre crane et de votre Calvitie.
 						</p>
 					</div>
 					<div class="col-xs-2 col-sm-offset-1 col-sm-1 cc-gallery cc-center">
@@ -950,7 +950,7 @@
 					<div class="col-md-6">
 						<h4><i class="fa fa-check-square-o"></i> PROTHESE CAPILLAIRE DERMOLACE</h4>
 						<p>
-							La prothèse capillaire DERMOLACE combine résistance et aération avec sa construction en tulle fin et résistant fusionné. Son pourtour renforcée et ajustable permet un meilleur maintien.
+							La prothèse capillaire DERMOLACE combine résistance et aération avec sa construction en tulle fin et résistant fusionné. Son pourtour renforcé et ajustable permet un meilleur maintien.
 							<ul>
 								<li>Type de fixation: collage par fusion,adhésifs ou cylindres</li>
 								<li>Longevité de la prothèse: 3-4 mois soit 3 à 4 chevelures/an</li>
@@ -974,7 +974,7 @@
 					<div class="col-sm-6">
 						<h4><i class="fa fa-check-square-o"></i> BON A SAVOIR</h4>
 						<p>Grâce à ces 4 techniques vous pourrez poursuivre toutes vos activités quotidiennes de manière normale.</p>
-						<p>Vous pourrez aller à la piscine, à la plage et faire du sport en toute confiance !</p>
+						<p>Vous pourrez aller à la piscine, à la plage et faire du sport en toute confiance !</p>
 					</div>
 				</div>
 				<div class="row cc-header-padding-60">
@@ -1023,17 +1023,17 @@
 				<div class="row cc-header-padding-60">
 					<div class="col-sm-12">
 						<p>
-							Vous souhaitez donnez du volume, rallonger votre longueur, une frange, un côté ou simplement rajouter quelques mèches de couleur dans votre chevelure ? <br/>
-							Quoi de plus simple pour changer de style rapidement ! <br/>
-							Vous trouverez des extensions en cheveux 100% naturelles adaptées à votre situation parmi notre choix de nuances et produits de qualités. <br/>
-							Nous sommes à votre disposition pour des conseils personnalisés afin de vous aider dans le choix de vos extensions.
+							Vous souhaitez donnez du volume, rallonger votre longueur, une frange, un coté ou simplement rajouter quelques mèches de couleur dans votre chevelure ? <br/>
+							Quoi de plus simple pour changer de style rapidement ! <br/>
+							Vous trouverez des extensions en cheveux 100% naturelles adaptées à votre situation parmi notre choix de nuances et produits de qualité. <br/>
+							Nous sommes à votre disposition pour des conseils personnalisés afin de vous aider dans le choix de vos extensions.
 						</p>
 					</div>
 				</div>
 				<div class="row cc-header-padding-60">
 					<div class="col-sm-12">
 						<p>
-							Nos extensions de qualité REMY HAIR AAAA+ vous sont proposées en mèches à mèches de 0.8 gr à 1,2grs ou en bandeaux 7cm de large, elles mesurent jusqu&#39;à 55cm maximum. Le nombre d’extensions à poser varient selon le style de coiffure et la fixation désirée. Les points de fixation fusionnent parfaitement avec la chevelure et assurent une sensation de confort optimale.
+							Nos extensions de qualité REMY HAIR AAAA+ vous sont proposées en mèches à mèches de 0.8 gr à 1,2grs ou en bandeaux 7cm de large, elles mesurent jusqu&#39;à 55cm maximum. Le nombre d’extensions à poser varient selon le style de coiffure et la fixation désirée. Les points de fixation fusionnent parfaitement avec la chevelure et assure une sensation de confort optimale.
 						</p>
 					</div>
 				</div>
@@ -1046,7 +1046,7 @@
 					<div class="col-xs-offset-1 col-xs-1 cc-gallery"><div class=" cc-logo-4 cc-gallery-ext-1"></div></div>
 					<div class="col-md-10">
 						<p>
-							<b>Fixation mèches à mèches non réutilisable Kératine</b> : La pose se fait a chaud à l’aide d’onglet de Kératine <br/>
+							<b>Fixation mèches à mèches non réutilisable Kératine</b> : La pose se fait a chaud à l’aide d’onglet de Kératine <br/>
 							Durée de vie entre 4 et 6 mois selon la repousse de vos cheveux avec une visite mensuelle Studio Capillaire pour éliminer les cheveux qui sont susceptibles de s’emmêler autour des mèches d’extensions.
 						</p>
 					</div>
@@ -1064,7 +1064,7 @@
 					<div class=" col-xs-1 cc-gallery"><div class=" cc-logo-4 cc-gallery-ext-3"></div></div>
 					<div class=" col-xs-1 cc-gallery"><div class=" cc-logo-4 cc-gallery-ext-4"></div></div>
 					<div class="col-md-10">
-						<p><b>Fixation par bandeaux réutilisables Kératine</b> : La pose se fait à chaud à l’aide d’onglets de kératines <br/>
+						<p><b>Fixation par bandeaux réutilisable Kératine</b> : La pose se fait à chaud à l’aide d’onglets de kératines <br/>
 						Durée de vie entre 4 et 6 mois selon la repousse de vos cheveux avec un entretien Studio Capillaire toutes les 4 à 6 semaines pour déposer et reposer chaque bandeau d’extension afin de les réajuster.</p>
 					</div>
 				</div>
@@ -1072,29 +1072,29 @@
 					<div class="col-xs-1 cc-gallery"><div class=" cc-logo-4 cc-gallery-ext-5"></div></div>
 					<div class="col-xs-1 cc-gallery"><div class=" cc-logo-4 cc-gallery-ext-6"></div></div>
 					<div class="col-md-10">
-						<p><b>Fixation par bandeaux réutilisable loops</b> : La pose se fait à froid à l’aide de cylindre en métal <br/>
+						<p><b>Fixation par bandeaux réutilisable loops</b> : La pose se fait à froid à l’aide de cylindre en métal <br/>
 						Durée de vie entre 4 et 6 mois selon la repousse de vos cheveux avec un entretien Studio Capillaire toutes les 4 à 6 semaines pour déposer et reposer chaque bandeau d’extension afin de les réajuster.</p>
 					</div>
 				</div>
 				<!--<div class="row">
 					<div class="col-xs-offset-1 col-xs-1 cc-gallery"><div class=" cc-logo-4 cc-gallery-ext-7"></div></div>
 					<div class="col-md-10">
-						<p><b>Fixation par bandes réutilisable Adhésives</b> : La pose se fait à chaud à l’aide d’adhésif <br/>
+						<p><b>Fixation par bandes réutilisable Adhésives</b> : La pose se fait à chaud à l’aide d’adhésif <br/>
 						Durée de vie entre 4 et 6 mois selon la repousse de vos cheveux avec un entretien Studio Capillaire toutes les 4 à 6 semaines pour déposer et reposer chaque bande d’extension afin de les réajuster.</p>
 					</div>
 				</div>-->
 				<div class="row cc-header-padding-60">
 					<div class="col-xs-offset-1 col-xs-1 cc-gallery"><div class=" cc-logo-4 cc-gallery-ext-8"></div></div>
 					<div class="col-md-10">
-						<p><b>Fixation par bandeaux réutilisable clips</b> : La pose se fait à froid à l’aide de petite pince en métal amovible <br/>
-						Durée de vie entre 4 et 6 mois, entretien journalier pour déposer et reposer chaque bande d’extension afin de les réajuster.</p>
+						<p><b>Fixation par bandeaux réutilisable clips</b> : La pose se fait à froid à l’aide de petite pince en métal amovible <br/>
+						Durée de vie entre 4 et 6 mois, entretien journalier pour déposer et reposer chaque bande d’extension afin de les réajuster.</p>
 					</div>
 				</div>
 				<div class="row cc-header-padding-60">
 					<div class="col-sm-12">
 						<h4><i class="fa fa-check-square-o"></i> LE CONSEIL PRATIQUE</h4>
-						<p>Pour un lavage optimal appliquez un shampooing très nourrissant accompagné de son masque, que vous pourrez laisser poser quelques minutes, puis un sérum de finition sur cheveux secs. Nous vous conseillons de laver vos cheveux dans le sens de la fixation, veuillez répéter cette opération 2 à 3 fois par semaine afin de préserver l’éclat de vos extensions.
-						Pour le démêlage, tenez la base de vos extensions pour ne pas fragiliser les fixations et utilisez une brosse à poils doux, séchez avec un sèche-cheveux à température moyenne. Si vous utilisez un fer à lisser pour les finitions de coiffage ne soyez pas trop prêt des fixations qui risqueraient de fondre.</p>
+						<p>Pour un lavage optimal appliquez un shampooing très nourrissant accompagné de son masque que vous pourrez laisser poser quelques minutes, puis un sérum de finition sur cheveux secs. Nous vous conseillons de laver vos cheveux dans le sens de la fixation, veuillez répéter cette opération 2 à 3 fois par semaine afin de préserver l’éclat de vos extensions.
+						Pour le démêlage tenez la base de vos extensions pour ne pas fragiliser les fixations et utilisez une brosse à poils doux, séchez avec un sèche-cheveux à température moyenne. Si vous utilisez un fer à lisser pour les finitions de coiffage ne soyez pas trop prêt des fixations qui risqueraient de fondre.</p>
 					</div>
 				</div>
 			</div>
@@ -1104,7 +1104,7 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<h3>ESTHETIQUE</h3>
-						<i>Cocktail Esthétique c’est une esthéticienne passionnée, dynamique qui se perfectionne régulièrement pour réaliser des services de qualités et vous apporter les meilleurs conseils.</i>
+						<i>Cocktail Esthétique c’est une Esthéticienne Passionnée, Dynamique qui se perfectionne régulièrement pour réaliser des services de qualités et vous apporter les meilleurs conseils.</i>
 					</div>
 				</div>
 				<div class="row cc-header-padding-30">
@@ -1125,15 +1125,12 @@
 				<div class="row">
 					<div class="col-xs-12">
 						<ul class="cc-bon-plan">
-							<!--<li><b>Mardi:</b>-20% sur les soins visage (hors forfaits)</li>
-							<li><b>Vendredi:</b>-20% sur les épilations (à partir de 20€)</li>
-							<li><b>Samedi:</b>Homme -20% sur toutes prestations esthétique. (à partir de 20€)</li>-->
-							<li style="font-size:20px;color:red"><b>Offre LPG, Valable jusqu'au 30/04/2018</b></li>
-							<li style="font-size:20px;color:red"><b>Un forfait Cellu M6 10 scéances à 350€ au lieu de 400€ <br/>+ 1 crème éclat revitalisante corps offerte</b></li>
-							<li>&nbsp;</li>
-							<li><b>Etudiant:</b> -20ans Profitez de -20% sur toutes nos prestations et produits tous les jours (hors Tarifs Journée promotionnel.)</li>
-							<li><b>Carte parrainage:</b> Présentez nous un client(e) qui ne nous connait pas encore afin que lui et vous puissiez bénéficier de -20% de réduction, valable 1 fois sur le montant total de votre facture.</li>
-							<li><b>Bon cadeau:</b> Pensez aux bons cadeaux pour les Fêtes de Noël, Anniversaires, etc...</li>
+							<li><b>mardi:</b>-20% sur les Soins Visage (hors forfaits)</li>
+							<li><b>vendredi:</b>-20% sur les Epilations (à partir de 20€)</li>
+							<li><b>samedi:</b>Homme -20% sur toutes Prestations Esthétique. (à partir de 20€)</li>
+							<li><b>etudiant:</b>-20ans Profitez de -20% sur toutes nos prestations et produits tous les jours (hors Tarifs Journée promotionnel.)</li>
+							<li><b>carte parrainage:</b>Présenter nous un client(e) qui ne nous connait pas encore afin que lui et vous puissiez bénéficiez de -20% de réduction, valable 1 fois sur le montant total de votre facture.</li>
+							<li><b>bon cadeau:</b>Pensez aux Bon Cadeaux pour les Fêtes de Noël, Anniversaire, etc...</li>
 						</ul>
 						Pour Profiter des Bons Plans <a class="page-scroll" href="#about-contact">prenez rendez-vous !</a>
 					</div>
@@ -1156,60 +1153,60 @@
 					<div class="col-xs-6">
 						<h4>Carte Soins Corps Modelage Relaxant</h4>
 						<p>
-							<b>Modelage dos « Zen »</b> <br/>
+							<b>Modelage dos « Zen »</b> <br/>
 							Décontractant du dos 30min
 						</p>
 						<p>
-							<b>Modelage dos « Choco choco »</b><br/>
-							Décontractant du dos avec crème au chocolat fondant 30min
+							<b>Modelage dos « Choco choco »</b><br/>
+							Décontractant du dos avec Crème au Chocolat Fondant 30min
 						</p>
 						<p>
-							<b>Modelage corps traditionnel « Zénitude »</b> <br/>
-							Relaxant et excellent anti-stress 1h00<br/>
+							<b>Modelage corps traditionnel « Zénitude »</b> <br/>
+							Relaxants et excellents anti-stress 1h00<br/>
 						</p>
 						<p>
-							<b>Modelage corps à la bougie « Lumin’elle »</b> <br/>
-							Moment détente et sérénité grâce à la cire de bougie 1h00<br/>
+							<b>Modelage corps à la Bougie « Lumin’elle »</b> <br/>
+							Moment détente et sérénité grâce à la cire de bougie 1h00<br/>
 						</p>
 						<p>
-							<b>Modelage corps Indiens « Harmonie »</b><br/> 
-							Pression sur l'ensemble du corps et du cuir chevelu 1h00
+							<b>Modelage corps Indiens « Harmonie »</b><br/> 
+							Pression sur l ensemble du corps et du cuir chevelu 1h00
 						</p>
 						<p>
-							<b>Modelage coprs « Pierres Chaudes »</b><br/> 
+							<b>Modelage coprs « Pierres Chaudes »</b><br/> 
 							Soulage efficacement les tensions musculaires 1h30
 						</p>
 						<p>
-							<b>Modelage corps « Relax Mama »</b> <br/> 
-							Relaxant, doux et rassurant, adapté à la femme enceinte 1h00<br/>
+							<b>Modelage corps « Relax Mama »</b> <br/> 
+							Relaxant, doux et rassurant, adapté à la femme enceinte 1h00<br/>
 						</p>
 						<p>
-							<b>Modelage pieds « Pas de Velours »</b> <br/> 
+							<b>Modelage pieds « Pas de Velours »</b> <br/> 
 							Rétablir l'équilibre de l'organisme 45min
 						</p>
 					</div>
 					<div class="col-xs-6">
-						<h4>Soins Corps divers </h4>
+						<h4>Soins Corps divers </h4>
 						<p>	
 							<b>Envellopement Corps</b><br/>
-							Véritable soin de beauté ou amaincissant 30min
+							Véritable soin de beauté ou Amaincissant 30min
 						</p>
 						<p>	
 							<b>Drainage Esthétique</b><br/>
 							Améliore la circulation sanguine et la rétention d’eau 1h00
 						</p>
 						<p class="cc-header-padding-60">	
-							<b>Gommage corps et visage</b><br/>
-							Douce et satinée, notre peau doit être exfoliée 30min
+							<b>Gommage Corps et Visage</b><br/>
+							Douce et satinée, notre peau doit être exfolié 30min
 						</p>
 						<h4>Cocktail Suggestion</h4>
 						<p>
 							<b>Cocktail Sérénité</b><br/> 
-							Gommage + Modelage zénitude 1h30
+							Gommage + Modelage Zénitude 1h30
 						</p>
 						<p>	
 							<b>Cocktail Paradis</b><br/> 
-							Soin visage Essentielle + Modelage zénitude 1h45
+							Soin Visage Essenti’elle + Modelage Zénitude 1h45
 						</p>
 						<p>	
 							<b>Cocktail Rêve</b><br/> 
@@ -1228,12 +1225,12 @@
 				<div class="row cc-header-padding-60">
 					<div class="col-xs-6">
 						<p>
-							<b>Décoloration des lèvres, joues, cuisses et bras</b> <br/>
-							Atténue l’ombre des poils sur visage ou corps 30min
+							<b>Décoloration des lèvres,joues, cuisses et bras</b> <br/>
+							Atténue l’ombres des poils sur visage ou corps 30min
 						</p>
 						<p>
 							<b>Teinture cils ou Sourcils</b><br/> 
-							Mise en valeur du regard 15min
+							Mise en valeur du Regard 15min
 						</p>
 					</div>
 					<div class="col-xs-6">
@@ -1255,7 +1252,7 @@
 				<div class="row cc-header-padding-60">
 					<div class="col-xs-8">
 						<p>
-							Fort de 10 années d'expérience en développement de produit et de matériel d'épilation, <b>JEAN MARIN</b> dédie sa ligne à tous les professionnels en quête de produits d'épilation de qualités irréprochables. Respectueuse de l'épiderme et adaptée à tous les types de peau, la ligne <b>EPILATION de JEAN MARIN</b> extrait le poil tout en douceur depuis sa racine. Les cires sont faciles à appliquer et assurent un résultat longue durée.
+							Fort de 10 années d'expérience en développement de produits et de matériel d'épilation, <b>JEAN MARIN</b> dédie sa ligne à tous les professionnels en quête de produits d'épilation de qualité irréprochable.Respectueuse de l'épiderme et adaptée à tous les types de peau, la ligne <b>EPILATION de JEAN MARIN</b> extrait le poil tout en douceur depuis sa racine. Les cires sont faciles à appliquer et assurent un résultat longue durée.
 						</p>
 						<p>
 							<b>Femme: </b> Sourcils, Visage, Aisselles, Maillot, Jambes, Bras
@@ -1303,7 +1300,7 @@
 							Mise en beauté des ongles par excellence 30min<br/>
 						</p>
 						<p>
-							<b>Pose Vernis Semi-Permanent</b> <br/>
+							<b>Pose Vernis Semi-Premanent</b> <br/>
 							Promesse d’un vernis longue durée 30min<br/>
 						</p>
 						<p>
@@ -1348,22 +1345,22 @@
 				</div>
 				<div class="row cc-header-padding-60">
 					<div class="col-xs-12">
-						Notre esthéticienne, spécialiste des soins de rajeunissement, a une connaissance approfondie des techniques de Dermo-Esthétique, de l’Aromathérapie d’esthétique et des huiles Essentielles. Elle vous fera découvrir l’univers des soins de Beauté Mary Cohr, qui font le succès et la référence des instituts du monde entier !<br/>
-						Après avoir réalisé une véritable consultation beauté, l’esthéticienne établira un programme de soins personnalisé, en fonction de vos objectifs beauté, elle vous proposera les soins et les textures qui réussissent le mieux à votre peau, après chaque soin, elle vous fera constater avec un miroir, les résultats d’efficacité et suivra l'évolution.
+						Notre Esthéticienne, spécialiste des Soins de rajeunissement, a une connaissance approfondie des techniques de Dermo-Esthétique, de l’Aromathérapie d’esthétique et des huiles Essentiels. Elle vous fera découvrir l’univers des Soins de Beauté Mary Cohr, qui font le succès et la référence des Instituts du Monde Entier !<br/>
+						Après avoir réalisé une véritable consultation beauté, l’Esthéticienne établira un programme de Soins personnalisé, en fonction de vos objectifs beauté, elle vous proposera les Soins et les textures qui réussissent le mieux à votre peau, après chaque Soin, elle vous fera constater avec un miroir, les résultats d’efficacité et suivra l'évolution.
 						<b><a class="page-scroll" href="#about-contact">Venez découvrir</a></b>
 						
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-12">
-						<h4>Carte de Soins Beauté Visage Mary Cohr</h4>
+						<h4>Carte de Soins Beauté Visage Mary Cohr</h4>
 					</div>
 				</div>
 				<div class="row cc-header-padding-60">
 					<div class="col-xs-6">
 						<p>
 							<b>CatioVital Jeunesse</b><br/> 
-							Soin jeunesse personnalisé par objectif beauté 1h00<br/>
+							Soin Jeunesse personnalisé par objectif beauté 1h00<br/>
 						</p>
 						<p>
 							<b>Catiovital Lifting</b><br/> 
@@ -1393,7 +1390,7 @@
 						</p>
 						<p>
 							<b>Soin Essenti’elle</b><br/> 
-							Soin nettoyant, purifie la peau et assainit le teint 40min 
+							Soin nettoyant, purifie la peau et assainit le teint 40min 
 						</p>
 						<p>
 							<b>Mini Soin jeune -20ans</b><br/> 
@@ -1409,8 +1406,8 @@
 							Soin Catio Vital spécifique Homme énergisant 1h00
 						</p>
 						<p>
-							Soin visage, yeux, cou, torse, spécifique anti-âge c’est un soin personnalisé complet, nettoyant, traitant en profondeur, l’effet jeunesse en plus CatioVital Jeunesse est une méthode de soin brevetée qui permet de retrouver l’activité cellulaire de la peau jeune.<br/>
-							Ce soin est personnalisé selon votre objectif beauté (anti-âge, antirides, hydratation, nutrition, douceur, pureté, éclaircissant, préparation/réparation soleil...) 
+							Soin visage, yeux, cou, torse, spécifique anti-âge c’est un soin personnalisé complet, nettoyant, traitant en profondeur, l’effet jeunesse en plus CatioVital Jeunesse est une méthode de Soin brevetée qui permet de retrouver l’activité cellulaire de la peau jeune.<br/>
+							Ce Soin est personnalisé selon votre objectif beauté (anti-âge, antirides, hydratation, nutrition, douceur, pureté, éclaircissant, préparation/réparation soleil...) 
 						</p>
 					</div>
 				</div>
@@ -1453,7 +1450,7 @@
 				<div class="row cc-header-padding-60">
 					<div class="col-xs-12">
 						<p>
-							Dès 25 ans, les substances essentielles de la jeunesse peau, le collagène, qui lui donne sa résistance, l’élastine, qui lui procure son effet ressort, et l’acide hyaluronique, son aspect rebondi, sont fabriquées en plus faible quantité par le fibroblaste. La peau perd alors de sa densité et s’affaisse, créant rides et sillons, principalement sur le visage, le cou, le décolleté et les mains. D’autres facteurs externes comme le soleil, le stress, le tabac ou encore la pollution peuvent accélérer leur apparition.
+							Dès 25 ans, les substances essentielles de la jeunesse peau, le collagène, qui lui donne sa résistance, l’élastine, qui lui procure son effet ressort, et l’acide hyaluronique, son aspect rebondi, sont fabriquées en plus faible quantité par le fibroblaste. La peau perd alors de sa densité et s’affaisse, créant rides et sillons, principalement sur le visage, le cou, le décolleté et les mains. D’autres facteurs externes comme le soleil, le stress, le tabac ou encore la pollution peuvent accélérer leur apparition.
 						</p>
 					</div>
 				</div>
@@ -1461,13 +1458,13 @@
 					<div class="col-xs-8">
 						<h4><i class="fa fa-check-square-o"></i> LA SOLUTION ENDERMOLOGIE</h4>
 						<p>
-							Véritable fitness cutané, la technique endermologie® gymnastique la peau pour réveiller le fibroblaste, cellule clé de jeunesse. Cette stimulation aussi efficace qu’agréable réactive les processus anti-âge naturels.
+							Véritable fitness cutané, la technique endermologie® gymnastique la peau pour réveiller le fibroblaste, cellule clé de jeunesse. Cette stimulation aussi efficace qu’agréable réactive les processus anti-âge naturels.
 						</p>
 						<ul>
 							<li>Production d’un nouveau collagène de bonne qualité.</li>
-							<li>Élimination des fragments de collagène dégradés pour détoxifier la peau.</li>
-							<li>Accélération de la synthèse d’élastine (+ 46 %) pour une peau plus résistante aux multiples micro-contractions musculaires, souvent responsables des « rides d’expression ».</li>
-							<li>Synthèse d’acide hyaluronique naturelle (+ 80 %) pour redonner du volume au derme et combler les rides.</li>
+							<li>Élimination des fragments de collagène dégradé pour détoxifier la peau.</li>
+							<li>Accélération de la synthèse d’’élastine (+ 46 %) pour une peau plus résistante aux multiples micro-contractions musculaires, souvent responsables des « rides d’expression ».</li>
+							<li>Synthèse d’acide hyaluronique naturel (+ 80 %) pour redonner du volume au derme et combler les rides.</li>
 						</ul>
 					</div>
 					<div class="col-xs-4">
@@ -1484,9 +1481,9 @@
 				</div>
 				<div class="row cc-header-padding-60">
 					<div class="col-md-12">
-						<b>La première solution LPG® Peeling Technology 60min</b><br/>
+						<b>La 1ère Solution LPG® Peeling Technology 60min</b><br/>
 						<p>
-							Activateur de jeunesse, ce programme de soin relance la régénération cellulaire sur le visage et le cou pour un véritable effet peau neuve. Une combinaison exclusive de traitement ENDERMOLIFT et d’exfoliation chimique superficielle  recommandée en cure 2 fois par mois à 15 jours d’intervalle pour optimiser le renouvellement cellulaire et l’éclat de la peau au fil des saisons.
+							Activateur de jeunesse, ce programme de soin relance la régénération cellulaire sur le visage et le cou pour un véritable effet peau neuve. Une combinaison exclusive de traitement ENDERMOLIFT et d’exfoliation chimique superficielle  recommandée en cure 2 fois par mois à 15 jours d’intervalle pour optimiser le renouvellement cellulaire et l’éclat de la peau au fil des saisons.
 						</p>
 					</div>
 				</div>
@@ -1516,7 +1513,7 @@
 					<div class="col-sm-3 col-xs-6 cc-center">
 						<div class="cc-circle">
 							<b>-4.20</b>cm<br/>
-							de tour<br/>de hanche
+							de tour<br/>de hanches
 					</div>
 					</div>
 					<div class="col-sm-3 col-xs-6 cc-center">
@@ -1569,7 +1566,7 @@
 				<div class="row cc-header-padding-60">
 					<div class="col-xs-12">
 						<p>
-							Mary Cohr a crée des soins de beauté aux actifs sélectionnés au plus près de la nature pour que la peau se nourrisse de ce qu'il y a de meilleur et de plus actif au cœur des plantes.  L'utilisation judicieuse des huiles essentielles permet aux peaux les plus exigeantes de reprendre vie, énergie et éclat.
+							Mary Cohr a crée des soins de beauté aux actifs sélectionnés au plus près de la nature pour que la peau se nourrisse de ce qu'il y a de meilleur et de plus actif au cœur des plantes.  L'utilisation judicieuse des huiles essentielles permet aux peaux les plus exigeantes de reprendre vie, énergie et éclat.
 						</p>
 						<p>
 							Mary Cohr a rendu pratique et esthétique la pénétration des huiles essentielles par le processus d'hydrogélification en créant les "Essences Vitales".
@@ -1590,12 +1587,12 @@
 							Expert de la peau depuis 30 ans, les laboratoires LPG Systems ont mis au point une solution cosmétique pointue et personnalisée.
 						</p>
 						<ul>
-							<li>Formulations hautes technicités</li>
+							<li>Formulations haute technicité</li>
 							<li>Concentration d’ingrédients actifs maximisée</li>
 							<li>Sans parabène et sans phénoxyéthanol</li>
 						</ul>
 						<p>
-							La ligne endermologie® cosmétique pour le corps propose une prescription minceur et fermeté selon 4 objectifs : perte de volume, cellulite, anti-âge et bien-être circulatoire.
+							La ligne endermologie® cosmétique pour le corps propose une prescription minceur et fermeté selon 4 objectifs : perte de volume, cellulite, anti-âge et bien-être circulatoire.
 						</p>
 					</div>
 				</div>
@@ -1641,38 +1638,14 @@
 					</div>
 				</div>-->
 				<div class="row">
-					<div class="col-md-offset-2 col-md-4 col-sm-6">
+					<div class="col-md-4 col-sm-6">
 						<div class="cc-portrait cc-perso1"></div>
 						<div class="cc-pad-portrait">
 							<p class="cc-center">
 								SYLVIE
 							</p>
 							<p class="cc-center">
-								<i>Notre Responsable<br/>Coiffure et Esthetique</i>
-							</p>
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-6">
-						<div class="cc-portrait cc-perso5"></div>
-						<div class="cc-pad-portrait">
-							<p class="cc-center">
-								SANDRA 
-							</p>
-							<p class="cc-center">
-								<i>Notre Responsable<br/>Styliste Ongulaire</i>
-							</p> 
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-offset-2 col-md-4 col-sm-6">
-						<div class="cc-portrait cc-perso3"></div>
-						<div class="cc-pad-portrait">
-							<p class="cc-center">
-								SARA
-							</p>
-							<p class="cc-center">
-								<i>Notre Coiffeuse</i>
+								<i>Notre Responsable</i>
 							</p>
 						</div>
 					</div>
@@ -1685,6 +1658,41 @@
 							<p class="cc-center">
 								<i>Notre Junior</i>
 							</p>
+						</div>
+					</div>
+					<div class="col-md-offset-0 col-sm-offset-3 col-md-4 col-sm-6">
+						<div class="cc-portrait cc-perso3"></div>
+						<div class="cc-pad-portrait">
+							<p class="cc-center">
+								SARA
+							</p>
+							<p class="cc-center">
+								<i>Notre Coiffeuse</i>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-offset-2 col-md-4 col-sm-6">
+						<div class="cc-portrait cc-perso4"></div>
+						<div class="cc-pad-portrait">
+							<p class="cc-center">
+								CINDY
+							</p>
+							<p class="cc-center">
+								<i>Notre Esthéticienne</i>
+							</p> 
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="cc-portrait cc-perso5"></div>
+						<div class="cc-pad-portrait">
+							<p class="cc-center">
+								SANDRA 
+							</p>
+							<p class="cc-center">
+								<i>Notre Styliste Ongulaire</i>
+							</p> 
 						</div>
 					</div>
 				</div>
@@ -1797,17 +1805,17 @@
 					<div class="col-sm-6 col-lg-6">
 						<h4>Nous suivre</h4>
 						<ul class="cc-rezo">
-							<li><i class="fa fa-facebook"></i><a href="https://www.facebook.com/Cocktail-Coiffure-Esth%C3%A9tique-Studio-Capillaire-Perruques-170564083727633/" target="blank">Notre page Facebook</a></li>
+							<li><i class="fa fa-facebook"></i><a href="https://www.facebook.com/CocktailCoiffureEsthetique/" target="blank">Notre page Facebook</a></li>
 							<li><i class="fa fa-phone"></i><a href="tel:0388829390">03 88 82 93 90</a></li>
 							<li><i class="fa fa-home"></i><a href="google.navigation:q=14 Rue d'Ebersheim, 67600 Sélestat, France">14 Rue d'Ebersheim, 67600 Sélestat</a></li>
 						</ul>
 						<h4>Nos horaires d'ouvertures</h4>
 						<ul class="cc-rezo">
-							<li><b>Mardi:</b>09:00 - 18:00</li>
-							<li><b>Mercredi:</b>14:00 - 18:00</li>
-							<li><b>Jeudi:</b>09:00 - 18:00</li>
-							<li><b>Vendredi:</b>14:00 - 20:00</li>
-							<li><b>Samedi:</b>09:00 - 16:00</li>
+							<li><b>mardi:</b>09:00 - 18:00</li>
+							<li><b>mercredi:</b>13:00 - 17:00</li>
+							<li><b>jeudi:</b>09:00 - 18:00</li>
+							<li><b>vendredi:</b>13:00 - 20:00</li>
+							<li><b>samedi:</b>09:00 - 16:00</li>
 						</ul>
 					</div>
 					<div class="col-sm-6 col-lg-6 cc-form">
@@ -1815,7 +1823,7 @@
 						<input type="text" id="cc_form_name" class="form-control" placeholder="Votre nom..."/>
 						<input type="text" id="cc_form_tel" class="form-control" placeholder="Votre téléphone..."/>
 						<textarea id="cc_form_desc" class="form-control">Bonjour,
-Veuillez me rappeler pour prendre rendez-vous.
+Veuillez me rappeler pour prendre rendez vous.
 A bientôt</textarea>
 						<div class="g-recaptcha" data-sitekey="6Ldz4BkUAAAAAPERIrDCDPXi5b8KqgwXWNyJX5sm"></div>
 						<button type="submit" class="btn btn-default" onclick="sendForm()">Envoyer</button>
